@@ -1,0 +1,24 @@
+name: Refresh review feed
+on:
+  schedule:
+    - cron: '30 4 * * *'   # daily, 04:30 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the feed from Klaviyo
+        env:
+          KLAVIYO_API_KEY: ${{ secrets.KLAVIYO_API_KEY }}
+        run: |
+          if [ -z "$KLAVIYO_API_KEY" ]; then echo "No KLAVIYO_API_KEY secret: feed not refreshed."; exit 0; fi
+          python3 build_feed.py --klaviyo viking_reviews.json --cache pages.json
+      - name: Commit if changed
+        run: |
+          git config user.name "review-feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add viking_reviews.json pages.json
+          git diff --cached --quiet || (git commit -m "Refresh review feed" && git push)

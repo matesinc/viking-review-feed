@@ -14,7 +14,7 @@ Output: {<profile Language>: {<first cart category>: {"headline": str, "reviews"
         (snippet.html in this folder).
 Rules (decision log, 2026-10-01): rating 4-5, verbatim text, the customer's own language
 first and English second, product photo from the product page; a review whose product page
-is gone is dropped."""
+is gone is dropped. `url` has no protocol: Stripo's link field adds https:// itself."""
 import glob, html, json, re, sys, urllib.request, urllib.parse, datetime, os
 
 METRIC = 'VWcacw'                   # Lipscore Rating
@@ -131,7 +131,7 @@ def main():
         day = datetime.date.fromisoformat(p['created_at'][:10])
         reviews.append({
             'text': text, 'rating': p['rating'], 'stars': STARS[p['rating']],
-            'product': p.get('product.name'), 'url': p['product.url'], 'image': page['image'],
+            'product': p.get('product.name'), 'url': re.sub(r'^https?://', '', p['product.url']), 'image': page['image'],
             'date': f"{day.day} {day.strftime('%b %Y')}", 'country': COUNTRY.get(p.get('language'), ''),
             '_aud': aud, '_lang': language(text, p.get('language')), '_sort': p['created_at']})
     reviews.sort(key=lambda r: r['_sort'], reverse=True)

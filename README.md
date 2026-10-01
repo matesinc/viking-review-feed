@@ -17,8 +17,8 @@ email. The feed holds no customer names or contact data.
 - Languages: `en`, `no`, `sv`, `da`, `fi`, `de` (Klaviyo profile property `Language`).
 - Categories: `kids`, `women`, `men`, `clothing`, `outlet` (first category of the first cart
   line, `event.Items.0.Categories.0`), plus `all`.
-- Review fields: `text` (verbatim), `rating`, `stars` (image URL), `product`, `url`, `image`
-  (900x900), `date`, `country`.
+- Review fields: `text` (verbatim), `rating`, `stars` (image URL), `product`, `url` (no
+  protocol: link it as `https://{{ r.url }}`), `image` (900x900), `date`, `country`.
 
 ## Rules
 

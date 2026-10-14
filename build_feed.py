@@ -23,7 +23,7 @@ MAX_PER_POOL = 8                    # newest first
 LANGS = ['en', 'no', 'sv', 'da', 'fi', 'de']
 COUNTRY = {'no': 'Norway', 'sv': 'Sweden', 'da': 'Denmark', 'fi': 'Finland', 'de': 'Germany'}
 CDN = 'https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/'
-STARS = {5: CDN + 'stripothumbnailurl5.png', 4: CDN + 'stripothumbnailurl4.png'}  # 130x21; 4.5 is for averages
+STARS = {5: CDN + '5.png', 4: CDN + '4.png'}  # Viking's own star images, 430x70; 45.png (4.5) is for averages
 # First category of the first cart line (200 carts, 2026-10-01): kids, men, clothing, women, outlet.
 # 'men' comes first on adult unisex shoes, which also carry 'women'.
 # Each value is a list of tiers: the first tier that has reviews wins.

@@ -19,8 +19,11 @@ so every page is fetched again on each run; the cache only covers a failed fetch
 import glob, html, json, re, sys, urllib.error, urllib.request, urllib.parse, datetime, os
 
 METRIC = 'VWcacw'                   # Lipscore Rating
-MIN_CHARS, MAX_CHARS = 40, 220      # short enough for the card, long enough to say something
-MAX_PER_POOL = 8                    # newest first
+MIN_CHARS, MAX_CHARS = 25, 600      # raw review length we read at all
+CARD_CHARS = 120                    # the card shows this much (template: truncatechars:120)
+MAX_PER_POOL = 12                   # 5 stars first, then newest
+# Profile Language values seen in Klaviyo that are country codes, not language codes (2026-10-30).
+ALIAS = {'dk': 'da', 'at': 'de', 'se': 'sv', 'nb': 'no', 'nn': 'no', 'ch': 'de'}
 LANGS = ['en', 'no', 'sv', 'da', 'fi', 'de']
 COUNTRY = {'no': 'Norway', 'sv': 'Sweden', 'da': 'Denmark', 'fi': 'Finland', 'de': 'Germany'}
 CDN = 'https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/'
@@ -37,6 +40,18 @@ HEADLINE = {'kids': GENERIC + ' about kids’ footwear', 'women': GENERIC + ' ab
 
 # Not praise: return or exchange requests and questions (they do slip through at 4 stars).
 BLOCK = re.compile(r'\b(bytte|byte|returner|retur|return|exchange|umtausch|zur\u00fcck|palaut|vaihtaa)\w*|\?\s*$', re.I)
+# Not tried yet: a gift still in the box, or "I don't know" (2026-10-30, seen in the da kids pool).
+UNTRIED = re.compile(r"ved ikke|vet ikke|vet inte|wei\u00df (ich )?nicht|don'?t know|en tied\u00e4|julegave|julklapp|christmas (gift|present)|weihnachtsgeschenk|joululahja", re.I)
+
+def card_text(text):
+    """Whole sentences that fit the card, so the template never cuts mid-word. None if even the
+    first sentence is too long."""
+    if len(text) <= CARD_CHARS: return text
+    out = ''
+    for sent in re.split(r'(?<=[.!])\s+', text):
+        if len(out) + len(sent) + 1 > CARD_CHARS: break
+        out = (out + ' ' + sent).strip()
+    return out if len(out) >= MIN_CHARS else None
 
 STOP = {
     'en': 'the and is are was with for this that they very my have has not but boots shoes good great perfect love happy',
@@ -130,7 +145,9 @@ def main():
         if p.get('is_service') or not p.get('product.url') or 'vikingfootwear.com/p/' not in p['product.url']:
             dropped['service'] += 1; continue
         if not MIN_CHARS <= len(text) <= MAX_CHARS: dropped['short_or_long'] += 1; continue
-        if BLOCK.search(text): dropped['not_praise'] += 1; continue
+        if BLOCK.search(text) or UNTRIED.search(text): dropped['not_praise'] += 1; continue
+        text = card_text(text)
+        if not text: dropped['short_or_long'] += 1; continue
         if text.lower() in seen: dropped['duplicate'] += 1; continue
         seen.add(text.lower())
         page = product_page(p['product.url'], cache, fetched)
@@ -143,15 +160,17 @@ def main():
             'text': text, 'rating': p['rating'], 'stars': STARS[p['rating']],
             'product': p.get('product.name'), 'url': re.sub(r'^https?://', '', p['product.url']), 'image': page['image'],
             'date': f"{day.day} {day.strftime('%b %Y')}", 'country': COUNTRY.get(p.get('language'), ''),
-            '_aud': aud, '_lang': language(text, p.get('language')), '_sort': p['created_at']})
-    reviews.sort(key=lambda r: r['_sort'], reverse=True)
+            '_aud': aud, '_lang': language(text, p.get('language')), '_sort': p['created_at'],
+            '_outlet': '/outlet' in page['url']})
+    reviews.sort(key=lambda r: (r['rating'], r['_sort']), reverse=True)
     if cache_path: json.dump(cache, open(cache_path, 'w'), indent=0)
 
-    def pool(tiers, lang):
+    def pool(tiers, lang, outlet=False):
         """Per tier: the customer's own language first, then English. Never a third language.
-        The headline names the audience only when the first tier answered."""
+        The headline names the audience only when the first tier answered. Outlet products go
+        last, except in the outlet pool, where they go first."""
         for i, auds in enumerate(tiers):
-            own = [r for r in reviews if r['_aud'] in auds]
+            own = sorted((r for r in reviews if r['_aud'] in auds), key=lambda r: r['_outlet'] != outlet)
             pick = [r for r in own if r['_lang'] == lang] or [r for r in own if r['_lang'] == 'en']
             if pick:
                 head = HEADLINE[auds[0]] if i == 0 and len(auds) == 1 else GENERIC
@@ -161,9 +180,10 @@ def main():
 
     feed = {}
     for lang in LANGS:
-        feed[lang] = {cat: pool(tiers, lang) for cat, tiers in POOLS.items()}
+        feed[lang] = {cat: pool(tiers, lang, cat == 'outlet') for cat, tiers in POOLS.items()}
         for cat in POOLS:                      # an empty pool borrows 'all', so the block only hides
             feed[lang][cat] = feed[lang][cat] or feed[lang]['all'] or {'headline': GENERIC, 'reviews': []}
+    for alias, lang in ALIAS.items(): feed[alias] = feed[lang]
     json.dump(feed, open(dst, 'w'), ensure_ascii=False, indent=1)
     print('kept', len(reviews), 'dropped', dropped, 'bytes', os.path.getsize(dst))
     for lang in LANGS:

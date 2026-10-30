@@ -4,14 +4,14 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
-     "text": "Simply perfect. My daughter is super happy with the boots. She told me that she never used before something that confortable. Thanks",
+     "text": "My daughter loved it, very comfy and playful with the space lights",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Spruce Barefoot Warm GTX 2V",
-     "url": "vikingfootwear.com/p/spruce-barefoot-warm-gtx-2v-wine",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2102_db79e67721-3-96015-41-a-square.jpg",
-     "date": "21 Sep 2026",
-     "country": "Norway"
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-plum",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_74a7ba5121-viking_aw26_studio-apparel_pdp_19-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Sweden"
     },
     {
      "text": "Could have been a little more open. But it works :)",
@@ -39,16 +39,6 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
-     "text": "Comfortable and easy to wear. The insole is a little too warm. I use it with a custom insole because of temporary foot pain, and the custom insole fits perfectly, but I wish the nose was a little wider.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "City Chelsea Fleece WP W",
-     "url": "vikingfootwear.com/p/city-chelsea-fleece-wp-w-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1671_6e750fc965-3-95675-37-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Denmark"
-    },
-    {
      "text": "Second pair these boots. First pair lasted four years in use. Good fitting tall boot with warm inner part.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -61,27 +51,27 @@
    ]
   },
   "men": {
-   "headline": "What customers say",
+   "headline": "What customers say about men’s footwear",
    "reviews": [
     {
-     "text": "Comfortable and easy to wear. The insole is a little too warm. I use it with a custom insole because of temporary foot pain, and the custom insole fits perfectly, but I wish the nose was a little wider.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "City Chelsea Fleece WP W",
-     "url": "vikingfootwear.com/p/city-chelsea-fleece-wp-w-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1671_6e750fc965-3-95675-37-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "Second pair these boots. First pair lasted four years in use. Good fitting tall boot with warm inner part.",
+     "text": "A good fit. Solid and good to wear over time",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Foxy Warm Rubber Boot",
-     "url": "vikingfootwear.com/p/foxy-warm-black-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/600_6fd8a36758-1-36600-2-a-square.jpg",
-     "date": "20 Sep 2026",
-     "country": "Finland"
+     "product": "Arctic 2.0 Thermo Boot",
+     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "The sizes are a little small; I usually wear a 39 but sized up to 40 and they fit perfectly, just big enough for warm socks but feel good without. Very happy with my purchase",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Trophy Icefighter Mid Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/trophy-icefighter-mid-warm-unisex-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/918_e9329f76a7-5-93965-203-a-square.jpg",
+     "date": "9 Oct 2026",
+     "country": "Sweden"
     }
    ]
   },
@@ -89,14 +79,14 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Simply perfect. My daughter is super happy with the boots. She told me that she never used before something that confortable. Thanks",
+     "text": "My daughter loved it, very comfy and playful with the space lights",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Spruce Barefoot Warm GTX 2V",
-     "url": "vikingfootwear.com/p/spruce-barefoot-warm-gtx-2v-wine",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2102_db79e67721-3-96015-41-a-square.jpg",
-     "date": "21 Sep 2026",
-     "country": "Norway"
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-plum",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_74a7ba5121-viking_aw26_studio-apparel_pdp_19-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Sweden"
     },
     {
      "text": "Could have been a little more open. But it works :)",
@@ -124,24 +114,34 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Comfortable and easy to wear. The insole is a little too warm. I use it with a custom insole because of temporary foot pain, and the custom insole fits perfectly, but I wish the nose was a little wider.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "City Chelsea Fleece WP W",
-     "url": "vikingfootwear.com/p/city-chelsea-fleece-wp-w-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1671_6e750fc965-3-95675-37-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "Simply perfect. My daughter is super happy with the boots. She told me that she never used before something that confortable. Thanks",
+     "text": "My daughter loved it, very comfy and playful with the space lights",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Spruce Barefoot Warm GTX 2V",
-     "url": "vikingfootwear.com/p/spruce-barefoot-warm-gtx-2v-wine",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2102_db79e67721-3-96015-41-a-square.jpg",
-     "date": "21 Sep 2026",
-     "country": "Norway"
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-plum",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_74a7ba5121-viking_aw26_studio-apparel_pdp_19-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "A good fit. Solid and good to wear over time",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Arctic 2.0 Thermo Boot",
+     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "The sizes are a little small; I usually wear a 39 but sized up to 40 and they fit perfectly, just big enough for warm socks but feel good without. Very happy with my purchase",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Trophy Icefighter Mid Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/trophy-icefighter-mid-warm-unisex-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/918_e9329f76a7-5-93965-203-a-square.jpg",
+     "date": "9 Oct 2026",
+     "country": "Sweden"
     },
     {
      "text": "Second pair these boots. First pair lasted four years in use. Good fitting tall boot with warm inner part.",
@@ -179,24 +179,34 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Comfortable and easy to wear. The insole is a little too warm. I use it with a custom insole because of temporary foot pain, and the custom insole fits perfectly, but I wish the nose was a little wider.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "City Chelsea Fleece WP W",
-     "url": "vikingfootwear.com/p/city-chelsea-fleece-wp-w-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1671_6e750fc965-3-95675-37-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "Simply perfect. My daughter is super happy with the boots. She told me that she never used before something that confortable. Thanks",
+     "text": "My daughter loved it, very comfy and playful with the space lights",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Spruce Barefoot Warm GTX 2V",
-     "url": "vikingfootwear.com/p/spruce-barefoot-warm-gtx-2v-wine",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2102_db79e67721-3-96015-41-a-square.jpg",
-     "date": "21 Sep 2026",
-     "country": "Norway"
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-plum",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_74a7ba5121-viking_aw26_studio-apparel_pdp_19-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "A good fit. Solid and good to wear over time",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Arctic 2.0 Thermo Boot",
+     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "The sizes are a little small; I usually wear a 39 but sized up to 40 and they fit perfectly, just big enough for warm socks but feel good without. Very happy with my purchase",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Trophy Icefighter Mid Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/trophy-icefighter-mid-warm-unisex-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/918_e9329f76a7-5-93965-203-a-square.jpg",
+     "date": "9 Oct 2026",
+     "country": "Sweden"
     },
     {
      "text": "Second pair these boots. First pair lasted four years in use. Good fitting tall boot with warm inner part.",
@@ -236,83 +246,83 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
-     "text": "Eldstemann gleder seg til å bruke disse når det begynner å bli kaldt ute :)",
+     "text": "Sønnen min er veldig fornøyd med disse skoene, de holder han varm og tørr på beina. 😊",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Claw Warm",
-     "url": "vikingfootwear.com/p/claw-warm-black-red",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2123_2dd60cf1ae-viking_26_camp_aw26_pdp_leglsy_1920x2442_3-square.jpg",
-     "date": "27 Sep 2026",
+     "product": "Epic Warm GTX",
+     "url": "vikingfootwear.com/p/epic-warm-gtx-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
+     "date": "29 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Rakk såvidt bestille varen før den sto på dørmatten! Fantastisk shipping, og produktet er helt som det skal! Anbefales",
+     "text": "Veldig fine vintersko som falt i smak hos 8åringen. Fin passform og blir gode og varme når kulda kommer.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Claw Warm",
-     "url": "vikingfootwear.com/p/claw-warm-dark-green",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2123_e414216808-viking_26_camp_aw26_pdp_leglsy_1920x2442_-square.jpg",
-     "date": "25 Sep 2026",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-dark-grey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_1cad081220-3-96010-91-a-square.jpg",
+     "date": "27 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Veldig fine støvler, barnet mitt elsker dem",
+     "text": "Helt gull. 3 åringen elsker dem. Gode og varme",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Equip Glitter Warm WP 2V",
-     "url": "vikingfootwear.com/p/equip-glitter-warm-wp-2v-violet",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1660_72d3aca9fa-3-95515-21-a-square.jpg",
-     "date": "17 Sep 2026",
+     "product": "Extreme Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/extreme-warm-huntinggreenkhaki-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/740_fe30d21595-5-91130-9331-e-square.jpg",
+     "date": "26 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Veldig fin, ganske vann resistent og varm. Høy i ankelen så får bedre balanse.",
+     "text": "Kjøper de samme skoene 3. året på rad! Fornøyd som alltid:)",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Mid GTX 2V",
-     "url": "vikingfootwear.com/p/expower-mid-gtx-2v-mustard",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1361_494350c124-3-54005-43-a-square.jpg",
-     "date": "16 Sep 2026",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-petrol",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_4338a77213-viking_26_camp_aw26_pdp_leglsy_1920x2442_13-square.jpg",
+     "date": "26 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Nydelig farge og veldig fine sko. 7 åringen var svært fornøyd! Disse var også varme og med en ullsåle for de absolutt kaldeste dagene blir det nok perfekt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Space Reflex Warm SC WP 2V",
-     "url": "vikingfootwear.com/p/space-reflex-warm-sc-wp-2v-pink",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2106_27ce692c5a-viking_aw26_studio-apparel_pdp_32-square.jpg",
-     "date": "16 Sep 2026",
+     "text": "Litt store i størrelsen. Minus for at det ikke er mulighet å stramme skolissene.",
+     "rating": 4,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
+     "product": "Epic Warm GTX",
+     "url": "vikingfootwear.com/p/epic-warm-gtx-camelcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_63d82f6c0a-3-95110-1277-a-square.jpg",
+     "date": "26 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Varme og enkle ta av og på- perfekt for små føtter",
+     "text": "Brukeren er overlykkelig når han løper av gårde i barnehagen med sine nye vintersko.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Ultra Warm Thermo Boot",
-     "url": "vikingfootwear.com/p/ultra-warm-navycharcoal-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_aded0b319d-5-25100-577-a-square.jpg",
-     "date": "16 Sep 2026",
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_6ee105ae0f-viking_aw26_studio-apparel_pdp_4-square.jpg",
+     "date": "23 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Perfekte for barn på vinterstid- varme og enkle ta av og på",
+     "text": "Veldig stor. Vanlig bruker 32 , 31 ser ut ende storre",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Ultra Warm Thermo Boot",
-     "url": "vikingfootwear.com/p/ultra-warm-navycharcoal-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_aded0b319d-5-25100-577-a-square.jpg",
-     "date": "16 Sep 2026",
+     "product": "Playrox Thermo Boot",
+     "url": "vikingfootwear.com/p/playrox-olive-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/733_df9781e9ba-5-11010-37-a-square.jpg",
+     "date": "22 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Veldig fornøyd! Bred og god tåboks!😍 Sitter godt på foten. Kommer nok til å kjøpe flere barfotsko fra Viking! ☺️",
+     "text": "Veldig fornøyd med produktet. Håper det er varme vintersko for uteliv. Barnet selv var meget tilfreds 😊.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Alv Barefoot Warm",
-     "url": "vikingfootwear.com/p/alv-barefoot-warm-grape",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2096_e0b315087e-1-60215-48-a-square.jpg",
-     "date": "14 Sep 2026",
+     "product": "Expower Warm GTX BOA",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1387_e8f9a71dcb-3-94125-2-a-square.jpg",
+     "date": "21 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -321,83 +331,83 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
-     "text": "Helt fantastiske å ta på og av, og veldig behagelige å bruke. Gleder meg til vinteren nå!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Icefighter 2 Warm Thermo Boot",
-     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
-     "date": "29 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Super støvel, som er lett å tråkke ned i. Utrolig lett. Ett must-have!",
+     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt. Får derfor god plass til tjukke gode strømper og kanskje et ullinnlegg.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
      "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-low-boot-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_d98061dbb9-5-93005-37-a-square.jpg",
-     "date": "24 Sep 2026",
+     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
+     "date": "30 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Denne skoen har perfekt passform til mine føtter og passer meget godt til mitt allround bruk. Jeg har slitt ut 4 eller 5 slike par og håper de blir mulig å få kjøpt i mange år til. KJEMPESKO!!!!!!!!!!!!!!!!!!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Anaconda 4x4 Low GTX BOA",
-     "url": "vikingfootwear.com/p/anaconda-4x4-low-gtx-boa-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1377_1f1cdfd91d-3-55200-231-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Det er de varmeste og beste og kuleste skoene jeg har hatt. Og jeg har hatt mange. Går lange turer med hunden hver dag er glovarm på beina ikke gnagsår og tørre i regn. Og ikke minst så kule. Så de blir brukt til alt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Chukka Mid Hybrid",
-     "url": "vikingfootwear.com/p/chukka-mid-hybrid-taupe",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2120_ef280904b0-3-96425-90-a-square.jpg",
-     "date": "21 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Så varme og gode- perfekt på slafsete vær",
+     "text": "Litt romslig i størrelsen, men ellers topp sko",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
      "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-low-boot-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_d98061dbb9-5-93005-37-a-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Norway"
+     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
+     "date": "28 Oct 2026",
+     "country": ""
     },
     {
-     "text": "Veldig gode støvler å gå i terrenget med",
+     "text": "Veldig gode sko, men er veldig smal i passform. Anbefaler å gå opp en str.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Trophy Mid Hunting Boot",
-     "url": "vikingfootwear.com/p/trophy-mid-unisex-huntinggreen-hunting-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/836_8b0f51fc41-1-43410-24-a-square.jpg",
-     "date": "15 Sep 2026",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "27 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Fornøyd med skoen og passformen, oppleves kanskje litt smal, men ikke trang.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Motion Low GTX W",
-     "url": "vikingfootwear.com/p/motion-low-gtx-w-cream-brown",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1491_3895c17571-3-55675-6608-a-square.jpg",
-     "date": "7 Sep 2026",
+     "text": "Supre støvlar som osar av nostalgi for meg. :)",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Seilas Heritage Low Rubber Boot",
+     "url": "vikingfootwear.com/p/seilas-heritage-low-rubber-boot-olive-eggshell",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1713_3bb5bb0502-1-56910-3793-a-square.jpg",
+     "date": "26 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Fantastiske støvler. Lette, varme og komfortable på foten. Ypperlig til bærplukking i vått lende!",
+     "text": "perfekt i passform, vanntett og ekstremt komfortabel selv etter mange timer. Sitter solid rundt foten!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Boost WP",
+     "url": "vikingfootwear.com/p/her-boost-wp-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1743_5072315b61-viking_26_hercollection_productimages_wtag_4-square.jpg",
+     "date": "22 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "Veldig gode og varme, god såle! Eneste minuset er at de røyter endel i starten, så svarte sokker ser veldig hvithårete ut. Regner med dette går seg til etterhvert :) uansett en kul og god vinterstøvel!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
      "product": "Norse Low Boot",
      "url": "vikingfootwear.com/p/norse-dark-naturalblack-low-boot",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_5913877e35-5-93005-4202-a-square.jpg",
-     "date": "31 Aug 2026",
+     "date": "20 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Gode og varme støvler. Jeg gikk opp en størrelse for de er litt små",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Norse Low Boot",
+     "url": "vikingfootwear.com/p/norse-low-boot-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_d98061dbb9-5-93005-37-a-square.jpg",
+     "date": "17 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "Kjempe god sko og bruke nå opp et hakk i størrelse spesielt for min del da jeg er både bredfot og hjulbeint. Holder det varm konstant og er behagelige å gå med",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Norse Tall Boot",
+     "url": "vikingfootwear.com/p/norse-blackcharcoal-tall-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1052_5e4126b311-5-93000-7702-a-square.jpg",
+     "date": "14 Oct 2026",
      "country": ""
     }
    ]
@@ -406,84 +416,84 @@
    "headline": "What customers say about men’s footwear",
    "reviews": [
     {
-     "text": "Andre paret vi kjøper. Slitt ut det første, tok to sesonger.",
+     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt. Får derfor god plass til tjukke gode strømper og kanskje en ullinnlegg.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Arctic 2.0 Thermo Boot",
-     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
-     "date": "29 Sep 2026",
+     "product": "Constrictor Warm SC GTX",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-gtx-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1664_00ab8a4ea9-3-95625-2-a_ispowinner-square.jpg",
+     "date": "30 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Godt hefte i terrenget. Lette å ta på og av. Ble brukt i vått og regnfullt terreng. Ble litt fuktige på innsiden oppå på foten.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Villrein High GTX BOA Hunting Boot",
-     "url": "vikingfootwear.com/p/villrein-high-gtx-boa-hunting-boot-blackred",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1501_cae819f5b7-3-55905-210-a-square.jpg",
-     "date": "28 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Disse er mine 5. Par viking hunter i rekken. Perfekt fottøy til jakt i skog og mark.",
+     "text": "Dette er en god støvel som jeg har brukt på jakt- og fisketurer i mange år. Sålen er blitt bedre men gunmmikvaliteten dårligere. Støvlene morkner og sprekker lettere enn før, selv når de impregneres",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Viking Hunter GTX Hunting Boot",
-     "url": "vikingfootwear.com/p/viking-hunter-gtx-unisex-dark-brown-hunting-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1441_eb74a75358-3-55950-18-a-square.jpg",
-     "date": "25 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "God såle og god passform, stor i størrelsen.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Villrein Neo SC",
-     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Supre støvler . De forrige jeg brukte varte i 9 år ! Brukt ialt 680 kilometre , altså mer enn 70 km jakt hver sesong",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Viking Hunter GTX Hunting Boot",
-     "url": "vikingfootwear.com/p/viking-hunter-gtx-unisex-dark-brown-hunting-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1441_eb74a75358-3-55950-18-a-square.jpg",
-     "date": "17 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Utrolig gode! Valgte en størrelse mindre enn hva jeg vanlig bruker for at de skulle passe.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Villrein Neo SC",
-     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
-     "date": "14 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Har ikke gått noe særlig med de enda, men passform så langt er veldig bra. Også lette å ta av og på.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Trophy Pro High Huntinggreen",
+     "product": "Trophy Pro High",
      "url": "vikingfootwear.com/p/trophy-pro-high-vibram-unisex-huntinggreen",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/834_1c37b772f2-1-43400-24-a-square.jpg",
-     "date": "25 Aug 2026",
+     "date": "27 Oct 2026",
      "country": "Norway"
     },
     {
-     "text": "Helt klart den beste gummistøvelen som finnes på markedet!",
+     "text": "Gode sko å gå i, hadde den eldre modellen i 12 år, håper disse holder like lenge.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Trophy High",
-     "url": "vikingfootwear.com/p/trophy-high-unisex-huntinggreen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1436_f9252e4f56-1-43415-24-a-square.jpg",
-     "date": "21 Aug 2026",
+     "product": "Constrictor 3 High WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-3-high-wp-boa-blacksilver-hiking",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/661_b74be71b08-3-88200-246-a-square.jpg",
+     "date": "27 Oct 2026",
      "country": "Norway"
+    },
+    {
+     "text": "Sitter godt på foten når den først er nedi. Jeg er litt høy over risten, så den er foreløpig litt vanskelig å ta av og på. Men det pleier å gå seg til. Varm og god. Størrelsen stemmer.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Trophy Icefighter Mid Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/trophy-icefighter-mid-warm-unisex-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/918_e9329f76a7-5-93965-203-a-square.jpg",
+     "date": "23 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Fantastisk gode støvler. Som å gå med joggesko. Dette er støvler for både lange dager i skogen, men også på tur på asfalt så vel som i terrenget.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Villrein Neo SC",
+     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
+     "date": "22 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Skikkelig behagelig på foten. Brukte dem på to lange jakt turer. Fjell og i skog.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Villrein Neo SC",
+     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
+     "date": "14 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "Skal teste dem til helgen, da drar vi til fjells. Er kjent med den tradisjonelle Viking støvelen. Kjøpå på XXl for lenge siden. Gleder medg til å teste denne.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Villrein Neo SC",
+     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
+     "date": "12 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Fantastisk kvalitet og behagelige, kjøpte til mannen min!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC GTX",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-gtx-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1664_00ab8a4ea9-3-95625-2-a_ispowinner-square.jpg",
+     "date": "9 Oct 2026",
+     "country": ""
     }
    ]
   },
@@ -491,13 +501,53 @@
    "headline": "What customers say about our clothing",
    "reviews": [
     {
-     "text": "Disse var helt supre! Skulle ønske de var i flere farger, så vi kunne hatt flere av de:)",
+     "text": "Kjempe fornøyd med jakken. Rask leveranse!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Warm SC Gloves",
-     "url": "vikingfootwear.com/p/expower-warm-sc-gloves-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2133_392b4d688d-50-26550-2-a-square.jpg",
-     "date": "30 Sep 2026",
+     "product": "Play Winter Jacket Thermal",
+     "url": "vikingfootwear.com/p/play-winter-jacket-thermal-50-26530",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2129_e506f744b6-50-26530-5-a-square.jpg",
+     "date": "26 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Kanskje noe liten i str, ville valgt en større enn hva barnet vanligvis bruker",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Playtime Pile Midlayer Jacket",
+     "url": "vikingfootwear.com/p/playtime-pile-midlayer-jacket-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1424_fffe7588a8-50-24560-5-a-square.jpg",
+     "date": "24 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Ikke prøvd ute, men virker til å være behagelig og sitte fint på barnet. Liker at det er strikk i bib-en",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Kenza X Viking Winter Pants",
+     "url": "vikingfootwear.com/p/kenza-x-viking-winter-pants-mossgreen",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2138_5be74a45ce-viking_aw26_kenza_campaignimages_logo_31-square.jpg",
+     "date": "21 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Ikke bare varm men Kjempe fin farge og luksus design",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Soft Baselayer Merino Pants",
+     "url": "vikingfootwear.com/p/soft-baselayer-merino-pants-navy-50-25570",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1688_efc2a2ecc9-50-25570-5-a-square.jpg",
+     "date": "19 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "Gode og myke. Barn med eksem klær ikke. Fine å bruke i fotballsko på vinteren også",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty 2 Pack Wool Socks",
+     "url": "vikingfootwear.com/p/toasty-2-pack-wool-socks-blue",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1419_3a973ae498-50-24510-35-a-square.jpg",
+     "date": "19 Oct 2026",
      "country": "Norway"
     },
     {
@@ -516,83 +566,83 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Disse var helt supre! Skulle ønske de var i flere farger, så vi kunne hatt flere av de:)",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Warm SC Gloves",
-     "url": "vikingfootwear.com/p/expower-warm-sc-gloves-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2133_392b4d688d-50-26550-2-a-square.jpg",
-     "date": "30 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Andre paret vi kjøper. Slitt ut det første, tok to sesonger.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Arctic 2.0 Thermo Boot",
-     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
-     "date": "29 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Helt fantastiske å ta på og av, og veldig behagelige å bruke. Gleder meg til vinteren nå!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Icefighter 2 Warm Thermo Boot",
-     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
-     "date": "29 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Godt hefte i terrenget. Lette å ta på og av. Ble brukt i vått og regnfullt terreng. Ble litt fuktige på innsiden oppå på foten.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Villrein High GTX BOA Hunting Boot",
-     "url": "vikingfootwear.com/p/villrein-high-gtx-boa-hunting-boot-blackred",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1501_cae819f5b7-3-55905-210-a-square.jpg",
-     "date": "28 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Eldstemann gleder seg til å bruke disse når det begynner å bli kaldt ute :)",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Claw Warm",
-     "url": "vikingfootwear.com/p/claw-warm-black-red",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2123_2dd60cf1ae-viking_26_camp_aw26_pdp_leglsy_1920x2442_3-square.jpg",
-     "date": "27 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Disse er mine 5. Par viking hunter i rekken. Perfekt fottøy til jakt i skog og mark.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Viking Hunter GTX Hunting Boot",
-     "url": "vikingfootwear.com/p/viking-hunter-gtx-unisex-dark-brown-hunting-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1441_eb74a75358-3-55950-18-a-square.jpg",
-     "date": "25 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Rakk såvidt bestille varen før den sto på dørmatten! Fantastisk shipping, og produktet er helt som det skal! Anbefales",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Claw Warm",
-     "url": "vikingfootwear.com/p/claw-warm-dark-green",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2123_e414216808-viking_26_camp_aw26_pdp_leglsy_1920x2442_-square.jpg",
-     "date": "25 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Super støvel, som er lett å tråkke ned i. Utrolig lett. Ett must-have!",
+     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt. Får derfor god plass til tjukke gode strømper og kanskje et ullinnlegg.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
      "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-low-boot-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_d98061dbb9-5-93005-37-a-square.jpg",
-     "date": "24 Sep 2026",
+     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
+     "date": "30 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt. Får derfor god plass til tjukke gode strømper og kanskje en ullinnlegg.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC GTX",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-gtx-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1664_00ab8a4ea9-3-95625-2-a_ispowinner-square.jpg",
+     "date": "30 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Sønnen min er veldig fornøyd med disse skoene, de holder han varm og tørr på beina. 😊",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Epic Warm GTX",
+     "url": "vikingfootwear.com/p/epic-warm-gtx-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Litt romslig i størrelsen, men ellers topp sko",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Norse Low Boot",
+     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
+     "date": "28 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "Dette er en god støvel som jeg har brukt på jakt- og fisketurer i mange år. Sålen er blitt bedre men gunmmikvaliteten dårligere. Støvlene morkner og sprekker lettere enn før, selv når de impregneres",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Trophy Pro High",
+     "url": "vikingfootwear.com/p/trophy-pro-high-vibram-unisex-huntinggreen",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/834_1c37b772f2-1-43400-24-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig fine vintersko som falt i smak hos 8åringen. Fin passform og blir gode og varme når kulda kommer.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-dark-grey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_1cad081220-3-96010-91-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig gode sko, men er veldig smal i passform. Anbefaler å gå opp en str.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Gode sko å gå i, hadde den eldre modellen i 12 år, håper disse holder like lenge.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor 3 High WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-3-high-wp-boa-blacksilver-hiking",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/661_b74be71b08-3-88200-246-a-square.jpg",
+     "date": "27 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -601,83 +651,83 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Disse var helt supre! Skulle ønske de var i flere farger, så vi kunne hatt flere av de:)",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Warm SC Gloves",
-     "url": "vikingfootwear.com/p/expower-warm-sc-gloves-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2133_392b4d688d-50-26550-2-a-square.jpg",
-     "date": "30 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Andre paret vi kjøper. Slitt ut det første, tok to sesonger.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Arctic 2.0 Thermo Boot",
-     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
-     "date": "29 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Helt fantastiske å ta på og av, og veldig behagelige å bruke. Gleder meg til vinteren nå!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Icefighter 2 Warm Thermo Boot",
-     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
-     "date": "29 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Godt hefte i terrenget. Lette å ta på og av. Ble brukt i vått og regnfullt terreng. Ble litt fuktige på innsiden oppå på foten.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Villrein High GTX BOA Hunting Boot",
-     "url": "vikingfootwear.com/p/villrein-high-gtx-boa-hunting-boot-blackred",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1501_cae819f5b7-3-55905-210-a-square.jpg",
-     "date": "28 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Eldstemann gleder seg til å bruke disse når det begynner å bli kaldt ute :)",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Claw Warm",
-     "url": "vikingfootwear.com/p/claw-warm-black-red",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2123_2dd60cf1ae-viking_26_camp_aw26_pdp_leglsy_1920x2442_3-square.jpg",
-     "date": "27 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Disse er mine 5. Par viking hunter i rekken. Perfekt fottøy til jakt i skog og mark.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Viking Hunter GTX Hunting Boot",
-     "url": "vikingfootwear.com/p/viking-hunter-gtx-unisex-dark-brown-hunting-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1441_eb74a75358-3-55950-18-a-square.jpg",
-     "date": "25 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Rakk såvidt bestille varen før den sto på dørmatten! Fantastisk shipping, og produktet er helt som det skal! Anbefales",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Claw Warm",
-     "url": "vikingfootwear.com/p/claw-warm-dark-green",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2123_e414216808-viking_26_camp_aw26_pdp_leglsy_1920x2442_-square.jpg",
-     "date": "25 Sep 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Super støvel, som er lett å tråkke ned i. Utrolig lett. Ett must-have!",
+     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt. Får derfor god plass til tjukke gode strømper og kanskje et ullinnlegg.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
      "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-low-boot-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_d98061dbb9-5-93005-37-a-square.jpg",
-     "date": "24 Sep 2026",
+     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
+     "date": "30 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt. Får derfor god plass til tjukke gode strømper og kanskje en ullinnlegg.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC GTX",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-gtx-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1664_00ab8a4ea9-3-95625-2-a_ispowinner-square.jpg",
+     "date": "30 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Sønnen min er veldig fornøyd med disse skoene, de holder han varm og tørr på beina. 😊",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Epic Warm GTX",
+     "url": "vikingfootwear.com/p/epic-warm-gtx-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Litt romslig i størrelsen, men ellers topp sko",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Norse Low Boot",
+     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
+     "date": "28 Oct 2026",
+     "country": ""
+    },
+    {
+     "text": "Dette er en god støvel som jeg har brukt på jakt- og fisketurer i mange år. Sålen er blitt bedre men gunmmikvaliteten dårligere. Støvlene morkner og sprekker lettere enn før, selv når de impregneres",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Trophy Pro High",
+     "url": "vikingfootwear.com/p/trophy-pro-high-vibram-unisex-huntinggreen",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/834_1c37b772f2-1-43400-24-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig fine vintersko som falt i smak hos 8åringen. Fin passform og blir gode og varme når kulda kommer.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-dark-grey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_1cad081220-3-96010-91-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig gode sko, men er veldig smal i passform. Anbefaler å gå opp en str.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Gode sko å gå i, hadde den eldre modellen i 12 år, håper disse holder like lenge.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor 3 High WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-3-high-wp-boa-blacksilver-hiking",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/661_b74be71b08-3-88200-246-a-square.jpg",
+     "date": "27 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -688,6 +738,76 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Sköna och varma skor! Storleken stämmer helt med storleksguiden. De är lätta för barnet att ta på sig, lätta och flexibla på foten. Perfekta för många timmars lek utomhus i kallt väder!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_6ee105ae0f-viking_aw26_studio-apparel_pdp_4-square.jpg",
+     "date": "30 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "En stövel som lever upp till vad som lovas.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Equip Warm WP 1V",
+     "url": "vikingfootwear.com/p/equip-warm-wp-1v-jr-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/905_a8838ed373-3-93600-203-a-square.jpg",
+     "date": "22 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Skulle säga lagom i storlek. Bekvämt, snyggt, varm :) barn älskar!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "20 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Mycket nöjd! Känns robusta och bra kvalitet.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_760eeb0684-3-94020-2-a-square.jpg",
+     "date": "19 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Bästa fodrade vinterstöveln. Köper alltid denna modell till barnen. Storleken är normal 👌",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Ultra Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/ultra-warm-fuchsiapurple-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_69e60a06e0-5-25100-1716-a-square.jpg",
+     "date": "16 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Jättefina skor som dottern är nöjd med! Storleken stämmer bra med storlekstabellen.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Bouncy Glitter Mid WP 2V",
+     "url": "vikingfootwear.com/p/bouncy-glitter-mid-wp-2v-pink",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1616_9bb3a83427-viking_ea25_bouncy-glitter-mid-wp-2v-1-3-55510-9-3-square.jpg",
+     "date": "14 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Liten i storlek upplevde jag, i förhållande till exempelvis vinterstöveln. Annars superfina!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Track Mid WP 2V",
+     "url": "vikingfootwear.com/p/track-mid-wp-2v-plum",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/887_2e6485087f-3-53620-6250-a-square.jpg",
+     "date": "6 Oct 2026",
+     "country": "Sweden"
+    },
+    {
      "text": "Väldigt bra stövlar! Köper nya varje år och de funkar både höst vinter och vår",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -696,82 +816,42 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_fbb01e2e0b-5-25100-203-a-square.jpg",
      "date": "29 Sep 2026",
      "country": "Sweden"
-    },
-    {
-     "text": "Fina, mjuka och väldigt uppskattade av dottern. Bara testat i milt höstväder än men verkar vara skönt foder inför kallare säsong.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Splash Print Warm",
-     "url": "vikingfootwear.com/p/splash-print-warm-peach-multi",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2158_82161800d0-1-25320-8250-a-square.jpg",
-     "date": "26 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Min son älskar skorna, dem är lätta, varma och vattentäta",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fun Mid GTX 1V",
-     "url": "vikingfootwear.com/p/fun-mid-gtx-1v-3-56030",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2088_4d1a94079b-3-56030-5-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Väldigt snygga, sköna och lätta att ta på tyckte dottern.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Equip Mid WP 1V",
-     "url": "vikingfootwear.com/p/equip-mid-wp-1v-jr-dark-grey",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1374_67933a0399-3-54675-91-a-square.jpg",
-     "date": "18 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Bra vintersko som vi använder till våra gäster under våra vinterturer.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Constrictor Warm SC WP 1V SL",
-     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Så fina stabila skor. Precis det en tvååring behöver på förskolan.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Mid GTX 2V",
-     "url": "vikingfootwear.com/p/expower-mid-gtx-2v-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1361_3f5bd73b21-3-54005-2-a-square.jpg",
-     "date": "15 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Dottern är väldigt nöjd! Perfekt för hösten både i skolan men också på scouterna som hon går på. Jättenöjda!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Game Mid GTX 2V",
-     "url": "vikingfootwear.com/p/game-mid-gtx-2v-antiquerose",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1465_5f7b57880d-3-55025-53-a-square.jpg",
-     "date": "14 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Blev riktigt imponerad hur snabbt leveransen gick och skorna satt bra på dottern och var extremt snygga.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Flake Warm WP SL",
-     "url": "vikingfootwear.com/p/expower-flake-warm-wp-sl-linen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1656_2e0ea6e578-3-95355-59-a-square.jpg",
-     "date": "14 Sep 2026",
-     "country": "Sweden"
     }
    ]
   },
   "women": {
    "headline": "What customers say about women’s footwear",
    "reviews": [
+    {
+     "text": "Har ej hunnit ha dem ute, men de känns sköna",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Stride Mid Spike Warm BOA WP W",
+     "url": "vikingfootwear.com/p/stride-mid-spike-warm-boa-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1675_48377aba1b-3-95705-2-a-square.jpg",
+     "date": "23 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Mycket bekväm! Verkar vara bra kvalitet också.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Stride Mid WP W",
+     "url": "vikingfootwear.com/p/stride-mid-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1397_3bec16df88-3-94575-2-a-square.jpg",
+     "date": "23 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Snabb leverans på fantastiska produkter!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Foxy Rubber Boot",
+     "url": "vikingfootwear.com/p/foxy-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/340_5a2b96dd70-2-4-square.jpg",
+     "date": "15 Oct 2026",
+     "country": "Sweden"
+    },
     {
      "text": "Sköna! Funktionellt efter väderlek. Hade önskat att de fanns helsvarta i färgen. Köpte storlek 41 i grått.",
      "rating": 5,
@@ -780,16 +860,6 @@
      "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
      "date": "17 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Väldigt sköna skor som blir perfekta till hösten!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Stride Mid Warm GTX W",
-     "url": "vikingfootwear.com/p/stride-mid-warm-gtx-w-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1666_722f20e613-3-95640-2-a-square.jpg",
-     "date": "14 Sep 2026",
      "country": "Sweden"
     },
     {
@@ -808,16 +878,6 @@
    "headline": "What customers say about men’s footwear",
    "reviews": [
     {
-     "text": "Är väldigt nöjd med skor köpte dom till min sambo och han är mycket nöjd 👍",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Motion Low GTX BOA M",
-     "url": "vikingfootwear.com/p/motion-low-gtx-boa-m-blackcharcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1486_0c481569e4-3-55650-277-a-square.jpg",
-     "date": "18 Sep 2026",
-     "country": "Sweden"
-    },
-    {
      "text": "Nöjd, ser framemot att testa dom när det blir kallt.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -833,6 +893,76 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Sköna och varma skor! Storleken stämmer helt med storleksguiden. De är lätta för barnet att ta på sig, lätta och flexibla på foten. Perfekta för många timmars lek utomhus i kallt väder!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_6ee105ae0f-viking_aw26_studio-apparel_pdp_4-square.jpg",
+     "date": "30 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "En stövel som lever upp till vad som lovas.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Equip Warm WP 1V",
+     "url": "vikingfootwear.com/p/equip-warm-wp-1v-jr-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/905_a8838ed373-3-93600-203-a-square.jpg",
+     "date": "22 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Skulle säga lagom i storlek. Bekvämt, snyggt, varm :) barn älskar!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "20 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Mycket nöjd! Känns robusta och bra kvalitet.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_760eeb0684-3-94020-2-a-square.jpg",
+     "date": "19 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Bästa fodrade vinterstöveln. Köper alltid denna modell till barnen. Storleken är normal 👌",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Ultra Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/ultra-warm-fuchsiapurple-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_69e60a06e0-5-25100-1716-a-square.jpg",
+     "date": "16 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Jättefina skor som dottern är nöjd med! Storleken stämmer bra med storlekstabellen.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Bouncy Glitter Mid WP 2V",
+     "url": "vikingfootwear.com/p/bouncy-glitter-mid-wp-2v-pink",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1616_9bb3a83427-viking_ea25_bouncy-glitter-mid-wp-2v-1-3-55510-9-3-square.jpg",
+     "date": "14 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Liten i storlek upplevde jag, i förhållande till exempelvis vinterstöveln. Annars superfina!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Track Mid WP 2V",
+     "url": "vikingfootwear.com/p/track-mid-wp-2v-plum",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/887_2e6485087f-3-53620-6250-a-square.jpg",
+     "date": "6 Oct 2026",
+     "country": "Sweden"
+    },
+    {
      "text": "Väldigt bra stövlar! Köper nya varje år och de funkar både höst vinter och vår",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -840,76 +970,6 @@
      "url": "vikingfootwear.com/p/ultra-warm-blackgrey-thermo-boot",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_fbb01e2e0b-5-25100-203-a-square.jpg",
      "date": "29 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Fina, mjuka och väldigt uppskattade av dottern. Bara testat i milt höstväder än men verkar vara skönt foder inför kallare säsong.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Splash Print Warm",
-     "url": "vikingfootwear.com/p/splash-print-warm-peach-multi",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2158_82161800d0-1-25320-8250-a-square.jpg",
-     "date": "26 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Min son älskar skorna, dem är lätta, varma och vattentäta",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fun Mid GTX 1V",
-     "url": "vikingfootwear.com/p/fun-mid-gtx-1v-3-56030",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2088_4d1a94079b-3-56030-5-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Väldigt snygga, sköna och lätta att ta på tyckte dottern.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Equip Mid WP 1V",
-     "url": "vikingfootwear.com/p/equip-mid-wp-1v-jr-dark-grey",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1374_67933a0399-3-54675-91-a-square.jpg",
-     "date": "18 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Bra vintersko som vi använder till våra gäster under våra vinterturer.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Constrictor Warm SC WP 1V SL",
-     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Så fina stabila skor. Precis det en tvååring behöver på förskolan.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Mid GTX 2V",
-     "url": "vikingfootwear.com/p/expower-mid-gtx-2v-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1361_3f5bd73b21-3-54005-2-a-square.jpg",
-     "date": "15 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Dottern är väldigt nöjd! Perfekt för hösten både i skolan men också på scouterna som hon går på. Jättenöjda!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Game Mid GTX 2V",
-     "url": "vikingfootwear.com/p/game-mid-gtx-2v-antiquerose",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1465_5f7b57880d-3-55025-53-a-square.jpg",
-     "date": "14 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Blev riktigt imponerad hur snabbt leveransen gick och skorna satt bra på dottern och var extremt snygga.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Flake Warm WP SL",
-     "url": "vikingfootwear.com/p/expower-flake-warm-wp-sl-linen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1656_2e0ea6e578-3-95355-59-a-square.jpg",
-     "date": "14 Sep 2026",
      "country": "Sweden"
     }
    ]
@@ -918,83 +978,83 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Väldigt bra stövlar! Köper nya varje år och de funkar både höst vinter och vår",
+     "text": "Sköna och varma skor! Storleken stämmer helt med storleksguiden. De är lätta för barnet att ta på sig, lätta och flexibla på foten. Perfekta för många timmars lek utomhus i kallt väder!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Ultra Warm Thermo Boot",
-     "url": "vikingfootwear.com/p/ultra-warm-blackgrey-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_fbb01e2e0b-5-25100-203-a-square.jpg",
-     "date": "29 Sep 2026",
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_6ee105ae0f-viking_aw26_studio-apparel_pdp_4-square.jpg",
+     "date": "30 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Fina, mjuka och väldigt uppskattade av dottern. Bara testat i milt höstväder än men verkar vara skönt foder inför kallare säsong.",
+     "text": "Har ej hunnit ha dem ute, men de känns sköna",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Splash Print Warm",
-     "url": "vikingfootwear.com/p/splash-print-warm-peach-multi",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2158_82161800d0-1-25320-8250-a-square.jpg",
-     "date": "26 Sep 2026",
+     "product": "Stride Mid Spike Warm BOA WP W",
+     "url": "vikingfootwear.com/p/stride-mid-spike-warm-boa-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1675_48377aba1b-3-95705-2-a-square.jpg",
+     "date": "23 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Min son älskar skorna, dem är lätta, varma och vattentäta",
+     "text": "Mycket bekväm! Verkar vara bra kvalitet också.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fun Mid GTX 1V",
-     "url": "vikingfootwear.com/p/fun-mid-gtx-1v-3-56030",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2088_4d1a94079b-3-56030-5-a-square.jpg",
-     "date": "22 Sep 2026",
+     "product": "Stride Mid WP W",
+     "url": "vikingfootwear.com/p/stride-mid-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1397_3bec16df88-3-94575-2-a-square.jpg",
+     "date": "23 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Är väldigt nöjd med skor köpte dom till min sambo och han är mycket nöjd 👍",
+     "text": "En stövel som lever upp till vad som lovas.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Motion Low GTX BOA M",
-     "url": "vikingfootwear.com/p/motion-low-gtx-boa-m-blackcharcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1486_0c481569e4-3-55650-277-a-square.jpg",
-     "date": "18 Sep 2026",
+     "product": "Equip Warm WP 1V",
+     "url": "vikingfootwear.com/p/equip-warm-wp-1v-jr-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/905_a8838ed373-3-93600-203-a-square.jpg",
+     "date": "22 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Väldigt snygga, sköna och lätta att ta på tyckte dottern.",
+     "text": "Skulle säga lagom i storlek. Bekvämt, snyggt, varm :) barn älskar!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Equip Mid WP 1V",
-     "url": "vikingfootwear.com/p/equip-mid-wp-1v-jr-dark-grey",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1374_67933a0399-3-54675-91-a-square.jpg",
-     "date": "18 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Sköna! Funktionellt efter väderlek. Hade önskat att de fanns helsvarta i färgen. Köpte storlek 41 i grått.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "17 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Bra vintersko som vi använder till våra gäster under våra vinterturer.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
      "product": "Constrictor Warm SC WP 1V SL",
      "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
-     "date": "16 Sep 2026",
+     "date": "20 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Så fina stabila skor. Precis det en tvååring behöver på förskolan.",
+     "text": "Mycket nöjd! Känns robusta och bra kvalitet.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Mid GTX 2V",
-     "url": "vikingfootwear.com/p/expower-mid-gtx-2v-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1361_3f5bd73b21-3-54005-2-a-square.jpg",
-     "date": "15 Sep 2026",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_760eeb0684-3-94020-2-a-square.jpg",
+     "date": "19 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Bästa fodrade vinterstöveln. Köper alltid denna modell till barnen. Storleken är normal 👌",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Ultra Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/ultra-warm-fuchsiapurple-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_69e60a06e0-5-25100-1716-a-square.jpg",
+     "date": "16 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Snabb leverans på fantastiska produkter!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Foxy Rubber Boot",
+     "url": "vikingfootwear.com/p/foxy-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/340_5a2b96dd70-2-4-square.jpg",
+     "date": "15 Oct 2026",
      "country": "Sweden"
     }
    ]
@@ -1003,83 +1063,83 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Väldigt bra stövlar! Köper nya varje år och de funkar både höst vinter och vår",
+     "text": "Sköna och varma skor! Storleken stämmer helt med storleksguiden. De är lätta för barnet att ta på sig, lätta och flexibla på foten. Perfekta för många timmars lek utomhus i kallt väder!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Ultra Warm Thermo Boot",
-     "url": "vikingfootwear.com/p/ultra-warm-blackgrey-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_fbb01e2e0b-5-25100-203-a-square.jpg",
-     "date": "29 Sep 2026",
+     "product": "Spaceship Warm SC WP",
+     "url": "vikingfootwear.com/p/spaceship-warm-sc-wp-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_6ee105ae0f-viking_aw26_studio-apparel_pdp_4-square.jpg",
+     "date": "30 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Fina, mjuka och väldigt uppskattade av dottern. Bara testat i milt höstväder än men verkar vara skönt foder inför kallare säsong.",
+     "text": "Har ej hunnit ha dem ute, men de känns sköna",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Splash Print Warm",
-     "url": "vikingfootwear.com/p/splash-print-warm-peach-multi",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2158_82161800d0-1-25320-8250-a-square.jpg",
-     "date": "26 Sep 2026",
+     "product": "Stride Mid Spike Warm BOA WP W",
+     "url": "vikingfootwear.com/p/stride-mid-spike-warm-boa-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1675_48377aba1b-3-95705-2-a-square.jpg",
+     "date": "23 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Min son älskar skorna, dem är lätta, varma och vattentäta",
+     "text": "Mycket bekväm! Verkar vara bra kvalitet också.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fun Mid GTX 1V",
-     "url": "vikingfootwear.com/p/fun-mid-gtx-1v-3-56030",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2088_4d1a94079b-3-56030-5-a-square.jpg",
-     "date": "22 Sep 2026",
+     "product": "Stride Mid WP W",
+     "url": "vikingfootwear.com/p/stride-mid-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1397_3bec16df88-3-94575-2-a-square.jpg",
+     "date": "23 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Är väldigt nöjd med skor köpte dom till min sambo och han är mycket nöjd 👍",
+     "text": "En stövel som lever upp till vad som lovas.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Motion Low GTX BOA M",
-     "url": "vikingfootwear.com/p/motion-low-gtx-boa-m-blackcharcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1486_0c481569e4-3-55650-277-a-square.jpg",
-     "date": "18 Sep 2026",
+     "product": "Equip Warm WP 1V",
+     "url": "vikingfootwear.com/p/equip-warm-wp-1v-jr-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/905_a8838ed373-3-93600-203-a-square.jpg",
+     "date": "22 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Väldigt snygga, sköna och lätta att ta på tyckte dottern.",
+     "text": "Skulle säga lagom i storlek. Bekvämt, snyggt, varm :) barn älskar!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Equip Mid WP 1V",
-     "url": "vikingfootwear.com/p/equip-mid-wp-1v-jr-dark-grey",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1374_67933a0399-3-54675-91-a-square.jpg",
-     "date": "18 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Sköna! Funktionellt efter väderlek. Hade önskat att de fanns helsvarta i färgen. Köpte storlek 41 i grått.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "17 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Bra vintersko som vi använder till våra gäster under våra vinterturer.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
      "product": "Constrictor Warm SC WP 1V SL",
      "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
-     "date": "16 Sep 2026",
+     "date": "20 Oct 2026",
      "country": "Sweden"
     },
     {
-     "text": "Så fina stabila skor. Precis det en tvååring behöver på förskolan.",
+     "text": "Mycket nöjd! Känns robusta och bra kvalitet.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Mid GTX 2V",
-     "url": "vikingfootwear.com/p/expower-mid-gtx-2v-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1361_3f5bd73b21-3-54005-2-a-square.jpg",
-     "date": "15 Sep 2026",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_760eeb0684-3-94020-2-a-square.jpg",
+     "date": "19 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Bästa fodrade vinterstöveln. Köper alltid denna modell till barnen. Storleken är normal 👌",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Ultra Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/ultra-warm-fuchsiapurple-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/735_69e60a06e0-5-25100-1716-a-square.jpg",
+     "date": "16 Oct 2026",
+     "country": "Sweden"
+    },
+    {
+     "text": "Snabb leverans på fantastiska produkter!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Foxy Rubber Boot",
+     "url": "vikingfootwear.com/p/foxy-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/340_5a2b96dd70-2-4-square.jpg",
+     "date": "15 Oct 2026",
      "country": "Sweden"
     }
    ]
@@ -1089,6 +1149,26 @@
   "kids": {
    "headline": "What customers say about kids’ footwear",
    "reviews": [
+    {
+     "text": "De passer mit barn fint og holder fødderne varme og tørre.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Bouncy Glitter Mid WP 2V",
+     "url": "vikingfootwear.com/p/bouncy-glitter-mid-wp-2v-pink",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1616_9bb3a83427-viking_ea25_bouncy-glitter-mid-wp-2v-1-3-55510-9-3-square.jpg",
+     "date": "12 Oct 2026",
+     "country": "Denmark"
+    },
+    {
+     "text": "Det ved jeg ikke da det er en julegave til mit barnebarn.",
+     "rating": 4,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
+     "product": "Equip Warm WP 2V",
+     "url": "vikingfootwear.com/p/equip-warm-wp-2v-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1390_18dd19572d-3-94415-37-a-square.jpg",
+     "date": "9 Oct 2026",
+     "country": "Denmark"
+    },
     {
      "text": "Flotte og god kvalitet. Hurtig forsendelse",
      "rating": 5,
@@ -1100,52 +1180,12 @@
      "country": "Denmark"
     },
     {
-     "text": "Let støvle, som har har god pasform og jeg kan godt lide at den er lidt bred i snuden sammenlignet med andre overgangssko.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Hovet Mid WP 1V",
-     "url": "vikingfootwear.com/p/hovet-mid-wp-1v-navyorange",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/567_e78f38d346-3-51650-531-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "Skoen er rimelig fleksibel af en viking sko og bredden på læggen kan justeres hvilket er godt til buttede børneben. Den virker ok til høj vrist og ok til brede fødder.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Spruce Barefoot Warm GTX 2V",
-     "url": "vikingfootwear.com/p/spruce-barefoot-warm-gtx-2v-wine",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2102_db79e67721-3-96015-41-a-square.jpg",
-     "date": "20 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "De bedste vandtætte sneakers som holder min søns sokker og fødder tørre og varme, når der bliver spillet fodbold på en våd græsplæne i hvert frikvarter og i sfo tid!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Flow Mid WP 1V",
-     "url": "vikingfootwear.com/p/flow-mid-wp-1v-black-charcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2095_31e9e50114-3-56570-277-a-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Denmark"
-    },
-    {
      "text": "Størrelsen er svarende til normal størrelse.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
      "product": "Constrictor Warm SC WP 2V",
      "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-2v-dark-pink",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1650_bf4645d7e9-viking_26_camp_aw26_pdp_leglsy_1920x2442_7-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "God overgangs sko til min dreng som går i 1.b. Den kan både klare gåture i skoven og fodbold i frikvartererne.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Flow Mid WP 1V",
-     "url": "vikingfootwear.com/p/flow-mid-wp-1v-black-charcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2095_31e9e50114-3-56570-277-a-square.jpg",
      "date": "16 Sep 2026",
      "country": "Denmark"
     },
@@ -1160,13 +1200,13 @@
      "country": "Denmark"
     },
     {
-     "text": "God kvalitet og virker hårdfør. Er ikke helt vandtæt ovenpå vristen, så kræver en imprægnering.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Veme Reflex Mid GTX 2V",
-     "url": "vikingfootwear.com/p/veme-reflex-mid-gtx-2v-burgundy-violet",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1461_51bed543fb-3-55005-4021-a-square.jpg",
-     "date": "10 Sep 2026",
+     "text": "God Passform og størrelsen passer iht angivelsen på hjemmesiden",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-dark-pink",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_e16c2e8ce4-3-94020-39-a-square.jpg",
+     "date": "8 Sep 2026",
      "country": "Denmark"
     }
    ]
@@ -1210,6 +1250,16 @@
    "headline": "What customers say about men’s footwear",
    "reviews": [
     {
+     "text": "De sidder godt og er enormt behagelige. Det er mit 3. Par så nogle støvler jeg vender tilbage til",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Stavern Urban Rubber Boot",
+     "url": "vikingfootwear.com/p/stavern-urban-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/348_69efab32a8-1-37070-2-a-square.jpg",
+     "date": "5 Oct 2026",
+     "country": "Denmark"
+    },
+    {
      "text": "Har altid haft blå eller hvide Viking, men denne gang røde. Kun til pænt brug. 😀",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1245,6 +1295,16 @@
    "headline": "What customers say about our clothing",
    "reviews": [
     {
+     "text": "God kvalitet og min dreng blev meget glad for at få stropper under gummistøvlerne igen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Play Footstraps 2-pack V2",
+     "url": "vikingfootwear.com/p/play-footstraps-2-pack-v2-cement",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2150_b7cef83c4c-50-26800-73-a-square.jpg",
+     "date": "19 Oct 2026",
+     "country": "Denmark"
+    },
+    {
      "text": "Købte støvler i størrelse 31 og sokker i størrelsen 28-30 som anbefalet - passer perfekt",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1260,6 +1320,46 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "God kvalitet og min dreng blev meget glad for at få stropper under gummistøvlerne igen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Play Footstraps 2-pack V2",
+     "url": "vikingfootwear.com/p/play-footstraps-2-pack-v2-cement",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2150_b7cef83c4c-50-26800-73-a-square.jpg",
+     "date": "19 Oct 2026",
+     "country": "Denmark"
+    },
+    {
+     "text": "De passer mit barn fint og holder fødderne varme og tørre.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Bouncy Glitter Mid WP 2V",
+     "url": "vikingfootwear.com/p/bouncy-glitter-mid-wp-2v-pink",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1616_9bb3a83427-viking_ea25_bouncy-glitter-mid-wp-2v-1-3-55510-9-3-square.jpg",
+     "date": "12 Oct 2026",
+     "country": "Denmark"
+    },
+    {
+     "text": "Det ved jeg ikke da det er en julegave til mit barnebarn.",
+     "rating": 4,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
+     "product": "Equip Warm WP 2V",
+     "url": "vikingfootwear.com/p/equip-warm-wp-2v-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1390_18dd19572d-3-94415-37-a-square.jpg",
+     "date": "9 Oct 2026",
+     "country": "Denmark"
+    },
+    {
+     "text": "De sidder godt og er enormt behagelige. Det er mit 3. Par så nogle støvler jeg vender tilbage til",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Stavern Urban Rubber Boot",
+     "url": "vikingfootwear.com/p/stavern-urban-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/348_69efab32a8-1-37070-2-a-square.jpg",
+     "date": "5 Oct 2026",
+     "country": "Denmark"
+    },
+    {
      "text": "Flotte og god kvalitet. Hurtig forsendelse",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1270,52 +1370,12 @@
      "country": "Denmark"
     },
     {
-     "text": "Let støvle, som har har god pasform og jeg kan godt lide at den er lidt bred i snuden sammenlignet med andre overgangssko.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Hovet Mid WP 1V",
-     "url": "vikingfootwear.com/p/hovet-mid-wp-1v-navyorange",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/567_e78f38d346-3-51650-531-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "Skoen er rimelig fleksibel af en viking sko og bredden på læggen kan justeres hvilket er godt til buttede børneben. Den virker ok til høj vrist og ok til brede fødder.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Spruce Barefoot Warm GTX 2V",
-     "url": "vikingfootwear.com/p/spruce-barefoot-warm-gtx-2v-wine",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2102_db79e67721-3-96015-41-a-square.jpg",
-     "date": "20 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "De bedste vandtætte sneakers som holder min søns sokker og fødder tørre og varme, når der bliver spillet fodbold på en våd græsplæne i hvert frikvarter og i sfo tid!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Flow Mid WP 1V",
-     "url": "vikingfootwear.com/p/flow-mid-wp-1v-black-charcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2095_31e9e50114-3-56570-277-a-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Denmark"
-    },
-    {
      "text": "Størrelsen er svarende til normal størrelse.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
      "product": "Constrictor Warm SC WP 2V",
      "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-2v-dark-pink",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1650_bf4645d7e9-viking_26_camp_aw26_pdp_leglsy_1920x2442_7-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "God overgangs sko til min dreng som går i 1.b. Den kan både klare gåture i skoven og fodbold i frikvartererne.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Flow Mid WP 1V",
-     "url": "vikingfootwear.com/p/flow-mid-wp-1v-black-charcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2095_31e9e50114-3-56570-277-a-square.jpg",
      "date": "16 Sep 2026",
      "country": "Denmark"
     },
@@ -1345,6 +1405,46 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "God kvalitet og min dreng blev meget glad for at få stropper under gummistøvlerne igen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Play Footstraps 2-pack V2",
+     "url": "vikingfootwear.com/p/play-footstraps-2-pack-v2-cement",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2150_b7cef83c4c-50-26800-73-a-square.jpg",
+     "date": "19 Oct 2026",
+     "country": "Denmark"
+    },
+    {
+     "text": "De passer mit barn fint og holder fødderne varme og tørre.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Bouncy Glitter Mid WP 2V",
+     "url": "vikingfootwear.com/p/bouncy-glitter-mid-wp-2v-pink",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1616_9bb3a83427-viking_ea25_bouncy-glitter-mid-wp-2v-1-3-55510-9-3-square.jpg",
+     "date": "12 Oct 2026",
+     "country": "Denmark"
+    },
+    {
+     "text": "Det ved jeg ikke da det er en julegave til mit barnebarn.",
+     "rating": 4,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
+     "product": "Equip Warm WP 2V",
+     "url": "vikingfootwear.com/p/equip-warm-wp-2v-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1390_18dd19572d-3-94415-37-a-square.jpg",
+     "date": "9 Oct 2026",
+     "country": "Denmark"
+    },
+    {
+     "text": "De sidder godt og er enormt behagelige. Det er mit 3. Par så nogle støvler jeg vender tilbage til",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Stavern Urban Rubber Boot",
+     "url": "vikingfootwear.com/p/stavern-urban-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/348_69efab32a8-1-37070-2-a-square.jpg",
+     "date": "5 Oct 2026",
+     "country": "Denmark"
+    },
+    {
      "text": "Flotte og god kvalitet. Hurtig forsendelse",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1355,52 +1455,12 @@
      "country": "Denmark"
     },
     {
-     "text": "Let støvle, som har har god pasform og jeg kan godt lide at den er lidt bred i snuden sammenlignet med andre overgangssko.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Hovet Mid WP 1V",
-     "url": "vikingfootwear.com/p/hovet-mid-wp-1v-navyorange",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/567_e78f38d346-3-51650-531-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "Skoen er rimelig fleksibel af en viking sko og bredden på læggen kan justeres hvilket er godt til buttede børneben. Den virker ok til høj vrist og ok til brede fødder.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Spruce Barefoot Warm GTX 2V",
-     "url": "vikingfootwear.com/p/spruce-barefoot-warm-gtx-2v-wine",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2102_db79e67721-3-96015-41-a-square.jpg",
-     "date": "20 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "De bedste vandtætte sneakers som holder min søns sokker og fødder tørre og varme, når der bliver spillet fodbold på en våd græsplæne i hvert frikvarter og i sfo tid!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Flow Mid WP 1V",
-     "url": "vikingfootwear.com/p/flow-mid-wp-1v-black-charcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2095_31e9e50114-3-56570-277-a-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Denmark"
-    },
-    {
      "text": "Størrelsen er svarende til normal størrelse.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
      "product": "Constrictor Warm SC WP 2V",
      "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-2v-dark-pink",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1650_bf4645d7e9-viking_26_camp_aw26_pdp_leglsy_1920x2442_7-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "God overgangs sko til min dreng som går i 1.b. Den kan både klare gåture i skoven og fodbold i frikvartererne.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Flow Mid WP 1V",
-     "url": "vikingfootwear.com/p/flow-mid-wp-1v-black-charcoal",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2095_31e9e50114-3-56570-277-a-square.jpg",
      "date": "16 Sep 2026",
      "country": "Denmark"
     },
@@ -1432,6 +1492,16 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Poikani kokeili kenkiä ja koko ne heti hyväksi ja hienoksi.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_617b88d77a-viking_26_camp_aw26_pdp_leglsy_1920x2442_5-square.jpg",
+     "date": "20 Oct 2026",
+     "country": "Finland"
+    },
+    {
      "text": "Lapseni tykkää näistä kengistä todella paljon.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1457,6 +1527,16 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
+     "text": "Minulla on ollut samanlaiset kengät ennemmin myös",
+     "rating": 4,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
+     "product": "Stride Low WP W Black",
+     "url": "vikingfootwear.com/p/stride-low-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1395_31eb6e0bfc-3-94565-2-a-square.jpg",
+     "date": "22 Oct 2026",
+     "country": "Finland"
+    },
+    {
      "text": "Vihdoin löyty korkeammalla varrella oleva saapas paksuhkoon pohkeeseen. Normaalisti tosin käytän 37 koon kenkiä, tässä piti ottaa numeroa isompi.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1479,33 +1559,43 @@
    ]
   },
   "men": {
-   "headline": "What customers say",
+   "headline": "What customers say about men’s footwear",
    "reviews": [
     {
-     "text": "Vihdoin löyty korkeammalla varrella oleva saapas paksuhkoon pohkeeseen. Normaalisti tosin käytän 37 koon kenkiä, tässä piti ottaa numeroa isompi.",
+     "text": "A good fit. Solid and good to wear over time",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Hedda Rubber Boot",
-     "url": "vikingfootwear.com/p/hedda-black-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/344_01c32b6615-1-36500-2-a-square.jpg",
-     "date": "16 Sep 2026",
-     "country": "Finland"
+     "product": "Arctic 2.0 Thermo Boot",
+     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": ""
     },
     {
-     "text": "Vedenpitävyys testattu toimivaksi! Kengän lesti normaali, ei ainakaan leveä. Toimivat kengät!",
+     "text": "The sizes are a little small; I usually wear a 39 but sized up to 40 and they fit perfectly, just big enough for warm socks but feel good without. Very happy with my purchase",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Stride Low WP W Black",
-     "url": "vikingfootwear.com/p/stride-low-wp-w-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1395_31eb6e0bfc-3-94565-2-a-square.jpg",
-     "date": "11 Sep 2026",
-     "country": "Finland"
+     "product": "Trophy Icefighter Mid Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/trophy-icefighter-mid-warm-unisex-blackgrey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/918_e9329f76a7-5-93965-203-a-square.jpg",
+     "date": "9 Oct 2026",
+     "country": "Sweden"
     }
    ]
   },
   "clothing": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Poikani kokeili kenkiä ja koko ne heti hyväksi ja hienoksi.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_617b88d77a-viking_26_camp_aw26_pdp_leglsy_1920x2442_5-square.jpg",
+     "date": "20 Oct 2026",
+     "country": "Finland"
+    },
     {
      "text": "Lapseni tykkää näistä kengistä todella paljon.",
      "rating": 5,
@@ -1531,6 +1621,26 @@
   "outlet": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Minulla on ollut samanlaiset kengät ennemmin myös",
+     "rating": 4,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
+     "product": "Stride Low WP W Black",
+     "url": "vikingfootwear.com/p/stride-low-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1395_31eb6e0bfc-3-94565-2-a-square.jpg",
+     "date": "22 Oct 2026",
+     "country": "Finland"
+    },
+    {
+     "text": "Poikani kokeili kenkiä ja koko ne heti hyväksi ja hienoksi.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_617b88d77a-viking_26_camp_aw26_pdp_leglsy_1920x2442_5-square.jpg",
+     "date": "20 Oct 2026",
+     "country": "Finland"
+    },
     {
      "text": "Lapseni tykkää näistä kengistä todella paljon.",
      "rating": 5,
@@ -1576,6 +1686,26 @@
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Minulla on ollut samanlaiset kengät ennemmin myös",
+     "rating": 4,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
+     "product": "Stride Low WP W Black",
+     "url": "vikingfootwear.com/p/stride-low-wp-w-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1395_31eb6e0bfc-3-94565-2-a-square.jpg",
+     "date": "22 Oct 2026",
+     "country": "Finland"
+    },
+    {
+     "text": "Poikani kokeili kenkiä ja koko ne heti hyväksi ja hienoksi.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_617b88d77a-viking_26_camp_aw26_pdp_leglsy_1920x2442_5-square.jpg",
+     "date": "20 Oct 2026",
+     "country": "Finland"
+    },
     {
      "text": "Lapseni tykkää näistä kengistä todella paljon.",
      "rating": 5,
@@ -1624,6 +1754,66 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Mein Enkel wollte diese kuscheligen Stiefel gar nicht mehr ausziehen. Er ist begeistert, auch von den Reflektoren. Alles prima, Passform und aussehen top.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_760eeb0684-3-94020-2-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr schöner Gummistiefel. Durch den Riemen auch verstellbar. Etwas schwer aber sehr gut verarbeitet.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Vendela Black",
+     "url": "vikingfootwear.com/p/vendela-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/339_ea2c476d29-1-28210-2-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Mein Kind liebt diese winterstiefel. Also diesen einen Stiefel. Warme und trockene Füße im (norddeutschen) Winter. Einfach klasse.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Play Reflex Warm GTX 2V",
+     "url": "vikingfootwear.com/p/play-reflex-warm-gtx-2v-navy-charcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1379_abfebfb2ca-viking_26_camp_aw26_pdp_leglsy_1920x2442_21-square.jpg",
+     "date": "20 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Für die Schneetage ideal. Ob zum Rodeln, Werkeln, draußen Spaß haben einfach super. Toller Grip, gute Schafthöhe und mit dem Boa geht das Anziehen einfach schnell",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_82eb543011-3-96355-5-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Qualitativ hochwertige Winterschuhe. Anatomisch, robust und warm. Super.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Fleek Warm GTX 1V SL",
+     "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr bequemer, superwarmer Stiefel. Wir haben die ersten Stiefel für unsere Kinder in Größe 32 gekauft, und seitdem immer wieder gerne.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Extreme Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/extreme-warm-blackcharcoal-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/740_c933bcbde5-viking_26_camp_aw26_pdp_leglsy_1920x2442_14-square.jpg",
+     "date": "12 Oct 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Wie gewohnt tolle Qualität und Verarbeitung, meine beiden Mädels lieben diese Schuhe, gerade die tollen Raketenmuster.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1631,16 +1821,6 @@
      "url": "vikingfootwear.com/p/moon-warm-sc-gtx-2v-pink",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2100_ffb87d3e54-viking_26_camp_aw26_pdp_leglsy_1920x2442_20-square.jpg",
      "date": "22 Sep 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Im Vergleich zum schwarzen wirkt der olivgrün etwas weiter. Trage Komfort perfekt. Keine Blasen keine Schwellungen an den Füßen.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Equip Mid WP BOA",
-     "url": "vikingfootwear.com/p/equip-mid-wp-boa-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1619_f348383aa0-3-55595-37-a-square.jpg",
-     "date": "19 Sep 2026",
      "country": "Germany"
     },
     {
@@ -1659,30 +1839,40 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
-     "text": "Comfortable and easy to wear. The insole is a little too warm. I use it with a custom insole because of temporary foot pain, and the custom insole fits perfectly, but I wish the nose was a little wider.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "City Chelsea Fleece WP W",
-     "url": "vikingfootwear.com/p/city-chelsea-fleece-wp-w-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1671_6e750fc965-3-95675-37-a-square.jpg",
-     "date": "22 Sep 2026",
-     "country": "Denmark"
-    },
-    {
-     "text": "Second pair these boots. First pair lasted four years in use. Good fitting tall boot with warm inner part.",
+     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Foxy Warm Rubber Boot",
-     "url": "vikingfootwear.com/p/foxy-warm-black-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/600_6fd8a36758-1-36600-2-a-square.jpg",
-     "date": "20 Sep 2026",
-     "country": "Finland"
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
     }
    ]
   },
   "men": {
    "headline": "What customers say about men’s footwear",
    "reviews": [
+    {
+     "text": "Die Stiefel sind super. Gutes Gefühl am Fuß",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
     {
      "text": "Alles super! Die alten Stifel (gleiches Modell) hatten 10 Jahre gehalten und wurden jetzt erst undicht. Deshalb die Neuen 😅",
      "rating": 5,
@@ -1729,6 +1919,66 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Mein Enkel wollte diese kuscheligen Stiefel gar nicht mehr ausziehen. Er ist begeistert, auch von den Reflektoren. Alles prima, Passform und aussehen top.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_760eeb0684-3-94020-2-a-square.jpg",
+     "date": "29 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr schöner Gummistiefel. Durch den Riemen auch verstellbar. Etwas schwer aber sehr gut verarbeitet.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Vendela Black",
+     "url": "vikingfootwear.com/p/vendela-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/339_ea2c476d29-1-28210-2-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Mein Kind liebt diese winterstiefel. Also diesen einen Stiefel. Warme und trockene Füße im (norddeutschen) Winter. Einfach klasse.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Play Reflex Warm GTX 2V",
+     "url": "vikingfootwear.com/p/play-reflex-warm-gtx-2v-navy-charcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1379_abfebfb2ca-viking_26_camp_aw26_pdp_leglsy_1920x2442_21-square.jpg",
+     "date": "20 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Für die Schneetage ideal. Ob zum Rodeln, Werkeln, draußen Spaß haben einfach super. Toller Grip, gute Schafthöhe und mit dem Boa geht das Anziehen einfach schnell",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_82eb543011-3-96355-5-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Qualitativ hochwertige Winterschuhe. Anatomisch, robust und warm. Super.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Fleek Warm GTX 1V SL",
+     "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr bequemer, superwarmer Stiefel. Wir haben die ersten Stiefel für unsere Kinder in Größe 32 gekauft, und seitdem immer wieder gerne.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Extreme Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/extreme-warm-blackcharcoal-thermo-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/740_c933bcbde5-viking_26_camp_aw26_pdp_leglsy_1920x2442_14-square.jpg",
+     "date": "12 Oct 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Wie gewohnt tolle Qualität und Verarbeitung, meine beiden Mädels lieben diese Schuhe, gerade die tollen Raketenmuster.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1736,16 +1986,6 @@
      "url": "vikingfootwear.com/p/moon-warm-sc-gtx-2v-pink",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2100_ffb87d3e54-viking_26_camp_aw26_pdp_leglsy_1920x2442_20-square.jpg",
      "date": "22 Sep 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Im Vergleich zum schwarzen wirkt der olivgrün etwas weiter. Trage Komfort perfekt. Keine Blasen keine Schwellungen an den Füßen.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Equip Mid WP BOA",
-     "url": "vikingfootwear.com/p/equip-mid-wp-boa-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1619_f348383aa0-3-55595-37-a-square.jpg",
-     "date": "19 Sep 2026",
      "country": "Germany"
     },
     {
@@ -1764,73 +2004,83 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Wie gewohnt tolle Qualität und Verarbeitung, meine beiden Mädels lieben diese Schuhe, gerade die tollen Raketenmuster.",
+     "text": "Mein Enkel wollte diese kuscheligen Stiefel gar nicht mehr ausziehen. Er ist begeistert, auch von den Reflektoren. Alles prima, Passform und aussehen top.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Moon Warm SC GTX 2V",
-     "url": "vikingfootwear.com/p/moon-warm-sc-gtx-2v-pink",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2100_ffb87d3e54-viking_26_camp_aw26_pdp_leglsy_1920x2442_20-square.jpg",
-     "date": "22 Sep 2026",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_760eeb0684-3-94020-2-a-square.jpg",
+     "date": "29 Oct 2026",
      "country": "Germany"
     },
     {
-     "text": "Im Vergleich zum schwarzen wirkt der olivgrün etwas weiter. Trage Komfort perfekt. Keine Blasen keine Schwellungen an den Füßen.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Equip Mid WP BOA",
-     "url": "vikingfootwear.com/p/equip-mid-wp-boa-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1619_f348383aa0-3-55595-37-a-square.jpg",
-     "date": "19 Sep 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Alles super! Die alten Stifel (gleiches Modell) hatten 10 Jahre gehalten und wurden jetzt erst undicht. Deshalb die Neuen 😅",
+     "text": "Die Stiefel sind super. Gutes Gefühl am Fuß",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Seilas Rubber Boot",
-     "url": "vikingfootwear.com/p/seilas-tomato-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/354_e9463de0c6-1-46000-71-a-square.jpg",
-     "date": "17 Sep 2026",
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
+     "date": "29 Oct 2026",
      "country": "Germany"
     },
     {
-     "text": "Sehr gute Wanderstiefel, die den Rücken entlasten, wie ein guter Wanderschuh. Ich habe die \"normale\" Version für den Sommer und jetzt die SC Variante für die kältere Jahreszeit. Immer wieder super.",
+     "text": "Sehr schöner Gummistiefel. Durch den Riemen auch verstellbar. Etwas schwer aber sehr gut verarbeitet.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Villrein Neo SC",
-     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
-     "date": "16 Sep 2026",
+     "product": "Vendela Black",
+     "url": "vikingfootwear.com/p/vendela-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/339_ea2c476d29-1-28210-2-a-square.jpg",
+     "date": "27 Oct 2026",
      "country": "Germany"
     },
     {
-     "text": "Danke, die Stiefel sehen aus wie auf dem Bild, sind leicht, fallen mir für das tägliche tragen etwas zu locker - groß aus, sind nun BackUp für nasse Tage im Auto gelagert.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Stavern Urban Rubber Boot",
-     "url": "vikingfootwear.com/p/stavern-urban-black-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/348_69efab32a8-1-37070-2-a-square.jpg",
-     "date": "15 Sep 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Die fallen größer aus . Deswegen Nummer kleiner bestellen .",
+     "text": "Mein Kind liebt diese winterstiefel. Also diesen einen Stiefel. Warme und trockene Füße im (norddeutschen) Winter. Einfach klasse.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Villrein Neo SC",
-     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
-     "date": "12 Sep 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr schöne und hochwertige Stiefel. Sie sehen toll aus und die Größe passt perfekt. Wir sind zufrieden! Gut",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
      "product": "Play Reflex Warm GTX 2V",
      "url": "vikingfootwear.com/p/play-reflex-warm-gtx-2v-navy-charcoal",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1379_abfebfb2ca-viking_26_camp_aw26_pdp_leglsy_1920x2442_21-square.jpg",
-     "date": "27 Aug 2026",
+     "date": "20 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Für die Schneetage ideal. Ob zum Rodeln, Werkeln, draußen Spaß haben einfach super. Toller Grip, gute Schafthöhe und mit dem Boa geht das Anziehen einfach schnell",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_82eb543011-3-96355-5-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Qualitativ hochwertige Winterschuhe. Anatomisch, robust und warm. Super.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Fleek Warm GTX 1V SL",
+     "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
+     "date": "13 Oct 2026",
      "country": "Germany"
     }
    ]
@@ -1839,73 +2089,83 @@
    "headline": "What customers say",
    "reviews": [
     {
-     "text": "Wie gewohnt tolle Qualität und Verarbeitung, meine beiden Mädels lieben diese Schuhe, gerade die tollen Raketenmuster.",
+     "text": "Mein Enkel wollte diese kuscheligen Stiefel gar nicht mehr ausziehen. Er ist begeistert, auch von den Reflektoren. Alles prima, Passform und aussehen top.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Moon Warm SC GTX 2V",
-     "url": "vikingfootwear.com/p/moon-warm-sc-gtx-2v-pink",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2100_ffb87d3e54-viking_26_camp_aw26_pdp_leglsy_1920x2442_20-square.jpg",
-     "date": "22 Sep 2026",
+     "product": "Expower Warm GTX 2V",
+     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_760eeb0684-3-94020-2-a-square.jpg",
+     "date": "29 Oct 2026",
      "country": "Germany"
     },
     {
-     "text": "Im Vergleich zum schwarzen wirkt der olivgrün etwas weiter. Trage Komfort perfekt. Keine Blasen keine Schwellungen an den Füßen.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Equip Mid WP BOA",
-     "url": "vikingfootwear.com/p/equip-mid-wp-boa-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1619_f348383aa0-3-55595-37-a-square.jpg",
-     "date": "19 Sep 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Alles super! Die alten Stifel (gleiches Modell) hatten 10 Jahre gehalten und wurden jetzt erst undicht. Deshalb die Neuen 😅",
+     "text": "Die Stiefel sind super. Gutes Gefühl am Fuß",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Seilas Rubber Boot",
-     "url": "vikingfootwear.com/p/seilas-tomato-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/354_e9463de0c6-1-46000-71-a-square.jpg",
-     "date": "17 Sep 2026",
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
+     "date": "29 Oct 2026",
      "country": "Germany"
     },
     {
-     "text": "Sehr gute Wanderstiefel, die den Rücken entlasten, wie ein guter Wanderschuh. Ich habe die \"normale\" Version für den Sommer und jetzt die SC Variante für die kältere Jahreszeit. Immer wieder super.",
+     "text": "Sehr schöner Gummistiefel. Durch den Riemen auch verstellbar. Etwas schwer aber sehr gut verarbeitet.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Villrein Neo SC",
-     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
-     "date": "16 Sep 2026",
+     "product": "Vendela Black",
+     "url": "vikingfootwear.com/p/vendela-black-rubber-boot",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/339_ea2c476d29-1-28210-2-a-square.jpg",
+     "date": "27 Oct 2026",
      "country": "Germany"
     },
     {
-     "text": "Danke, die Stiefel sehen aus wie auf dem Bild, sind leicht, fallen mir für das tägliche tragen etwas zu locker - groß aus, sind nun BackUp für nasse Tage im Auto gelagert.",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
-     "product": "Stavern Urban Rubber Boot",
-     "url": "vikingfootwear.com/p/stavern-urban-black-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/348_69efab32a8-1-37070-2-a-square.jpg",
-     "date": "15 Sep 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Die fallen größer aus . Deswegen Nummer kleiner bestellen .",
+     "text": "Mein Kind liebt diese winterstiefel. Also diesen einen Stiefel. Warme und trockene Füße im (norddeutschen) Winter. Einfach klasse.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Villrein Neo SC",
-     "url": "vikingfootwear.com/p/villrein-neo-sc-huntinggreen",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1626_355ce56d43-1-43430-24-c-square.jpg",
-     "date": "12 Sep 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr schöne und hochwertige Stiefel. Sie sehen toll aus und die Größe passt perfekt. Wir sind zufrieden! Gut",
-     "rating": 4,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/4.png",
      "product": "Play Reflex Warm GTX 2V",
      "url": "vikingfootwear.com/p/play-reflex-warm-gtx-2v-navy-charcoal",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1379_abfebfb2ca-viking_26_camp_aw26_pdp_leglsy_1920x2442_21-square.jpg",
-     "date": "27 Aug 2026",
+     "date": "20 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Für die Schneetage ideal. Ob zum Rodeln, Werkeln, draußen Spaß haben einfach super. Toller Grip, gute Schafthöhe und mit dem Boa geht das Anziehen einfach schnell",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_82eb543011-3-96355-5-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Qualitativ hochwertige Winterschuhe. Anatomisch, robust und warm. Super.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Fleek Warm GTX 1V SL",
+     "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Gravel Neo Rubber Boots",
+     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
+     "date": "13 Oct 2026",
      "country": "Germany"
     }
    ]

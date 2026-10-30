@@ -14,8 +14,9 @@ Output: {<profile Language>: {<first cart category>: {"headline": str, "reviews"
         (snippet.html in this folder).
 Rules (decision log, 2026-10-01): rating 4-5, verbatim text, the customer's own language
 first and English second, product photo from the product page; a review whose product page
-is gone is dropped. `url` has no protocol: Stripo's link field adds https:// itself."""
-import glob, html, json, re, sys, urllib.request, urllib.parse, datetime, os
+is gone, or whose product has no size in stock (2026-10-30), is dropped. Stock changes daily,
+so every page is fetched again on each run; the cache only covers a failed fetch. `url` has no protocol: Stripo's link field adds https:// itself."""
+import glob, html, json, re, sys, urllib.error, urllib.request, urllib.parse, datetime, os
 
 METRIC = 'VWcacw'                   # Lipscore Rating
 MIN_CHARS, MAX_CHARS = 40, 220      # short enough for the card, long enough to say something
@@ -66,9 +67,15 @@ def audience_from_category(cat):
     if re.search(r'\bmen\b', c): return 'men'
     return None
 
-def product_page(url, cache):
-    """Audience and photo from the product page; None when the page is gone."""
-    if url in cache: return cache[url]
+def in_stock(offers):
+    """True when any size is InStock. The offers are one per size (schema.org Offer)."""
+    if isinstance(offers, dict): offers = offers.get('offers') or [offers]
+    return any('InStock' in str(o.get('availability', '')) for o in offers or [])
+
+def product_page(url, cache, fetched):
+    """Audience, photo and stock from the product page; None when the page is gone."""
+    if url in fetched: return cache.get(url)
+    fetched.add(url)
     out = None
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -81,10 +88,12 @@ def product_page(url, cache):
                 aud = next((a for a in ('kids', 'women', 'men') if f'/{a}/' in path), None)
                 if '/clothing' in path or '/apparel' in path: aud = 'apparel'
                 img = re.sub(r'-\d+x\d+(\.\w+)$', r'-square\1', d['image'][0])   # 900x900 rendition
-                out = {'audience': aud, 'image': img, 'url': path or url}
+                out = {'audience': aud, 'image': img, 'url': path or url, 'in_stock': in_stock(d.get('offers'))}
                 break
+    except urllib.error.HTTPError as err:
+        if err.code not in (404, 410): return cache.get(url)   # a hiccup: keep yesterday's answer
     except Exception:
-        out = None
+        return cache.get(url)
     cache[url] = out
     return out
 
@@ -112,8 +121,8 @@ def main():
     events = events_from_klaviyo() if live else events_from_dir(rest[0])
     dst = rest[-1]
     cache = json.load(open(cache_path)) if cache_path and os.path.exists(cache_path) else {}
-    reviews, seen = [], set()
-    dropped = {'not_praise': 0, 'short_or_long': 0, 'service': 0, 'no_page': 0, 'no_audience': 0, 'duplicate': 0}
+    reviews, seen, fetched = [], set(), set()
+    dropped = {'not_praise': 0, 'short_or_long': 0, 'service': 0, 'no_page': 0, 'sold_out': 0, 'no_audience': 0, 'duplicate': 0}
     for e in events:
         p = e['attributes']['event_properties']
         if not p.get('has_review') or (p.get('rating') or 0) < 4: continue
@@ -124,8 +133,9 @@ def main():
         if BLOCK.search(text): dropped['not_praise'] += 1; continue
         if text.lower() in seen: dropped['duplicate'] += 1; continue
         seen.add(text.lower())
-        page = product_page(p['product.url'], cache)
+        page = product_page(p['product.url'], cache, fetched)
         if not page: dropped['no_page'] += 1; continue
+        if not page.get('in_stock'): dropped['sold_out'] += 1; continue
         aud = page['audience'] or audience_from_category(p.get('product.category'))
         if not aud: dropped['no_audience'] += 1; continue
         day = datetime.date.fromisoformat(p['created_at'][:10])

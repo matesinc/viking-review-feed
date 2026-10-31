@@ -1036,5 +1036,17 @@
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1532_42daae0d78-50-25130-37-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/outlet/clothing/funtime-insulated-jacket-olive",
 "in_stock": false
+},
+"https://vikingfootwear.com/p/spruce-barefoot-warm-gtx-2v-navy": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2102_956542d569-3-96015-5-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/show-all/spruce-barefoot-warm-gtx-2v-navy",
+"in_stock": false
+},
+"https://vikingfootwear.com/p/splash-warm-moss-green": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/rubber-boots/warmlined-rubber-boots/splash-warm-moss-green",
+"in_stock": true
 }
 }

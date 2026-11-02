@@ -1054,5 +1054,17 @@
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/341_bb5821ff9b-1-34100-202-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/women/rubber-boots/low-rubber-boots/noble-blackblack-rubber-boot",
 "in_stock": true
+},
+"https://vikingfootwear.com/p/expower-winter-mitten-navy": {
+"audience": "apparel",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1054_031a3fb9d6-50-23595-5-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/outlet/clothing/expower-winter-mitten-navy",
+"in_stock": false
+},
+"https://vikingfootwear.com/p/bouncy-gtx-2v-olive": {
+"audience": null,
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1479_8c971ee550-3-55505-37-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/outlet/shoes/bouncy-gtx-2v-olive",
+"in_stock": false
 }
 }

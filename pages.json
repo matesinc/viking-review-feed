@@ -867,7 +867,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2107_9494cb2f75-3-96325-5-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/rowan-barefoot-warm-wp-2v-navy",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/kenza-x-viking-beanie-mustard": {
 "audience": "apparel",
@@ -1066,5 +1066,11 @@
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1479_8c971ee550-3-55505-37-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/outlet/shoes/bouncy-gtx-2v-olive",
 "in_stock": false
+},
+"https://vikingfootwear.com/p/her-serene-so-tall-warm-wp-black": {
+"audience": "women",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_a3735bcd21-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_14-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/women/show-all/her-serene-so-tall-warm-wp-black",
+"in_stock": true
 }
 }

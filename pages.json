@@ -147,7 +147,7 @@
 "audience": "women",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/women/winter-shoes/norse-blackcharcoal-low-boot",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/seilas-tomato-rubber-boot": {
 "audience": "men",
@@ -867,7 +867,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2107_9494cb2f75-3-96325-5-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/rowan-barefoot-warm-wp-2v-navy",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/kenza-x-viking-beanie-mustard": {
 "audience": "apparel",
@@ -1005,7 +1005,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1361_e2f29aa82c-3-54005-4-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/expower-mid-gtx-2v-green",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/aery-light-down-jacket-pink": {
 "audience": "apparel",
@@ -1071,6 +1071,18 @@
 "audience": "women",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_a3735bcd21-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_14-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/women/show-all/her-serene-so-tall-warm-wp-black",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/bergen-rubber-boot-black": {
+"audience": "men",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/353_a80f546340-1-45100-2-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/men/rubber-boots/low-rubber-boots/bergen-rubber-boot-black",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/rubber-boot-care-spray": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/rubber-boots/rubber-boot-care-spray",
 "in_stock": true
 }
 }

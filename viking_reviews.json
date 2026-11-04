@@ -54,6 +54,16 @@
    "headline": "What customers say about men’s footwear",
    "reviews": [
     {
+     "text": "Fit is a bit interesting. I usually wear EU 43/44 and their size calculator had me at EU 42, based on my foot length.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Bergen Rubber Boot",
+     "url": "vikingfootwear.com/p/bergen-rubber-boot-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/353_a80f546340-1-45100-2-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Denmark"
+    },
+    {
      "text": "A good fit. Solid and good to wear over time",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -103,6 +113,16 @@
   "outlet": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Fit is a bit interesting. I usually wear EU 43/44 and their size calculator had me at EU 42, based on my foot length.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Bergen Rubber Boot",
+     "url": "vikingfootwear.com/p/bergen-rubber-boot-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/353_a80f546340-1-45100-2-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Denmark"
+    },
     {
      "text": "Love the design and fit is right",
      "rating": 5,
@@ -188,6 +208,16 @@
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Fit is a bit interesting. I usually wear EU 43/44 and their size calculator had me at EU 42, based on my foot length.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Bergen Rubber Boot",
+     "url": "vikingfootwear.com/p/bergen-rubber-boot-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/353_a80f546340-1-45100-2-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Denmark"
+    },
     {
      "text": "Love the design and fit is right",
      "rating": 5,
@@ -275,6 +305,16 @@
   "kids": {
    "headline": "What customers say about kids’ footwear",
    "reviews": [
+    {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
@@ -384,16 +424,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1650_bf4645d7e9-viking_26_camp_aw26_pdp_leglsy_1920x2442_7-square.jpg",
      "date": "26 Oct 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Perfekt sko til vintertid",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Warm GTX 2V",
-     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-petrol",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_4338a77213-viking_26_camp_aw26_pdp_leglsy_1920x2442_13-square.jpg",
-     "date": "26 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -401,13 +431,13 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
-     "text": "Overraskende gode og varme.",
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
      "country": "Norway"
     },
     {
@@ -418,26 +448,6 @@
      "url": "vikingfootwear.com/p/noble-blackblack-rubber-boot",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/341_bb5821ff9b-1-34100-202-a-square.jpg",
      "date": "31 Oct 2026",
-     "country": ""
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Litt romslig i størrelsen, men ellers topp sko",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "28 Oct 2026",
      "country": ""
     },
     {
@@ -519,6 +529,26 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1052_5e4126b311-5-93000-7702-a-square.jpg",
      "date": "14 Oct 2026",
      "country": ""
+    },
+    {
+     "text": "Veldig fin sko, men liten i størrelsen.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig god på. Mye mulig det er de beste vinterskoene jeg noen gang har hatt.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "2 Oct 2026",
+     "country": "Norway"
     }
    ]
   },
@@ -796,6 +826,26 @@
      "country": "Norway"
     },
     {
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -826,16 +876,6 @@
      "country": "Norway"
     },
     {
-     "text": "Overraskende gode og varme.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
-    },
-    {
      "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -852,16 +892,6 @@
      "product": "Splash Warm",
      "url": "vikingfootwear.com/p/splash-warm-moss-green",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
      "date": "30 Oct 2026",
      "country": "Norway"
     }
@@ -871,6 +901,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -901,16 +951,6 @@
      "country": "Norway"
     },
     {
-     "text": "Overraskende gode og varme.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
-    },
-    {
      "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -927,16 +967,6 @@
      "product": "Splash Warm",
      "url": "vikingfootwear.com/p/splash-warm-moss-green",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
      "date": "30 Oct 2026",
      "country": "Norway"
     },
@@ -961,16 +991,6 @@
      "country": "Norway"
     },
     {
-     "text": "Litt romslig i størrelsen, men ellers topp sko",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "28 Oct 2026",
-     "country": ""
-    },
-    {
      "text": "Bra støvel med deilig fór",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -987,6 +1007,16 @@
      "product": "Trophy Pro High",
      "url": "vikingfootwear.com/p/trophy-pro-high-vibram-unisex-huntinggreen",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/834_1c37b772f2-1-43400-24-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig fine vintersko som falt i smak hos 8åringen. Fin passform og blir gode og varme når kulda kommer.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-dark-grey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_1cad081220-3-96010-91-a-square.jpg",
      "date": "27 Oct 2026",
      "country": "Norway"
     }
@@ -1068,6 +1098,16 @@
      "country": "Sweden"
     },
     {
+     "text": "Storlekstabellen är jättebra att följa då barfotaskor generellt sett är något större i passformen.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rowan Barefoot Warm WP 2V",
+     "url": "vikingfootwear.com/p/rowan-barefoot-warm-wp-2v-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2107_9494cb2f75-3-96325-5-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Sweden"
+    },
+    {
      "text": "Liten i storlek upplevde jag, i förhållande till exempelvis vinterstöveln. Annars superfina!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -1105,16 +1145,6 @@
      "url": "vikingfootwear.com/p/claw-warm-black-red",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2123_2dd60cf1ae-viking_26_camp_aw26_pdp_leglsy_1920x2442_3-square.jpg",
      "date": "24 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Tack så mycket! Superkvalitet!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Beito Warm GTX 2V",
-     "url": "vikingfootwear.com/p/beito-warm-gtx-2v-black-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1406_2cd3ba942b-3-94705-2-a-square.jpg",
-     "date": "21 Sep 2026",
      "country": "Sweden"
     }
    ]
@@ -1160,16 +1190,6 @@
      "url": "vikingfootwear.com/p/foxy-black-rubber-boot",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/340_5a2b96dd70-2-4-square.jpg",
      "date": "15 Oct 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Sköna! Funktionellt efter väderlek. Hade önskat att de fanns helsvarta i färgen. Köpte storlek 41 i grått.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "17 Sep 2026",
      "country": "Sweden"
     },
     {
@@ -1503,13 +1523,13 @@
      "country": "Sweden"
     },
     {
-     "text": "Perfekta för dessa regniga dagar!",
+     "text": "Storlekstabellen är jättebra att följa då barfotaskor generellt sett är något större i passformen.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Arctic 2.0 Thermo Boot",
-     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
-     "date": "8 Oct 2026",
+     "product": "Rowan Barefoot Warm WP 2V",
+     "url": "vikingfootwear.com/p/rowan-barefoot-warm-wp-2v-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2107_9494cb2f75-3-96325-5-a-square.jpg",
+     "date": "13 Oct 2026",
      "country": "Sweden"
     }
    ]
@@ -3830,6 +3850,16 @@
      "country": "Sweden"
     },
     {
+     "text": "Storlekstabellen är jättebra att följa då barfotaskor generellt sett är något större i passformen.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rowan Barefoot Warm WP 2V",
+     "url": "vikingfootwear.com/p/rowan-barefoot-warm-wp-2v-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2107_9494cb2f75-3-96325-5-a-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Sweden"
+    },
+    {
      "text": "Liten i storlek upplevde jag, i förhållande till exempelvis vinterstöveln. Annars superfina!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -3867,16 +3897,6 @@
      "url": "vikingfootwear.com/p/claw-warm-black-red",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2123_2dd60cf1ae-viking_26_camp_aw26_pdp_leglsy_1920x2442_3-square.jpg",
      "date": "24 Sep 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Tack så mycket! Superkvalitet!",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Beito Warm GTX 2V",
-     "url": "vikingfootwear.com/p/beito-warm-gtx-2v-black-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1406_2cd3ba942b-3-94705-2-a-square.jpg",
-     "date": "21 Sep 2026",
      "country": "Sweden"
     }
    ]
@@ -3922,16 +3942,6 @@
      "url": "vikingfootwear.com/p/foxy-black-rubber-boot",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/340_5a2b96dd70-2-4-square.jpg",
      "date": "15 Oct 2026",
-     "country": "Sweden"
-    },
-    {
-     "text": "Sköna! Funktionellt efter väderlek. Hade önskat att de fanns helsvarta i färgen. Köpte storlek 41 i grått.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "17 Sep 2026",
      "country": "Sweden"
     },
     {
@@ -4265,13 +4275,13 @@
      "country": "Sweden"
     },
     {
-     "text": "Perfekta för dessa regniga dagar!",
+     "text": "Storlekstabellen är jättebra att följa då barfotaskor generellt sett är något större i passformen.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Arctic 2.0 Thermo Boot",
-     "url": "vikingfootwear.com/p/arctic-20-unisex-blackdark-grey-thermo-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/738_b2c0ae7b47-5-44000-291-a-square.jpg",
-     "date": "8 Oct 2026",
+     "product": "Rowan Barefoot Warm WP 2V",
+     "url": "vikingfootwear.com/p/rowan-barefoot-warm-wp-2v-navy",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2107_9494cb2f75-3-96325-5-a-square.jpg",
+     "date": "13 Oct 2026",
      "country": "Sweden"
     }
    ]
@@ -4281,6 +4291,16 @@
   "kids": {
    "headline": "What customers say about kids’ footwear",
    "reviews": [
+    {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
@@ -4390,16 +4410,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1650_bf4645d7e9-viking_26_camp_aw26_pdp_leglsy_1920x2442_7-square.jpg",
      "date": "26 Oct 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Perfekt sko til vintertid",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Warm GTX 2V",
-     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-petrol",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_4338a77213-viking_26_camp_aw26_pdp_leglsy_1920x2442_13-square.jpg",
-     "date": "26 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -4407,13 +4417,13 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
-     "text": "Overraskende gode og varme.",
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
      "country": "Norway"
     },
     {
@@ -4424,26 +4434,6 @@
      "url": "vikingfootwear.com/p/noble-blackblack-rubber-boot",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/341_bb5821ff9b-1-34100-202-a-square.jpg",
      "date": "31 Oct 2026",
-     "country": ""
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Litt romslig i størrelsen, men ellers topp sko",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "28 Oct 2026",
      "country": ""
     },
     {
@@ -4525,6 +4515,26 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1052_5e4126b311-5-93000-7702-a-square.jpg",
      "date": "14 Oct 2026",
      "country": ""
+    },
+    {
+     "text": "Veldig fin sko, men liten i størrelsen.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig god på. Mye mulig det er de beste vinterskoene jeg noen gang har hatt.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "2 Oct 2026",
+     "country": "Norway"
     }
    ]
   },
@@ -4802,6 +4812,26 @@
      "country": "Norway"
     },
     {
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4832,16 +4862,6 @@
      "country": "Norway"
     },
     {
-     "text": "Overraskende gode og varme.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
-    },
-    {
      "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4858,16 +4878,6 @@
      "product": "Splash Warm",
      "url": "vikingfootwear.com/p/splash-warm-moss-green",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
      "date": "30 Oct 2026",
      "country": "Norway"
     }
@@ -4877,6 +4887,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4907,16 +4937,6 @@
      "country": "Norway"
     },
     {
-     "text": "Overraskende gode og varme.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
-    },
-    {
      "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4933,16 +4953,6 @@
      "product": "Splash Warm",
      "url": "vikingfootwear.com/p/splash-warm-moss-green",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
      "date": "30 Oct 2026",
      "country": "Norway"
     },
@@ -4967,16 +4977,6 @@
      "country": "Norway"
     },
     {
-     "text": "Litt romslig i størrelsen, men ellers topp sko",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "28 Oct 2026",
-     "country": ""
-    },
-    {
      "text": "Bra støvel med deilig fór",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4993,6 +4993,16 @@
      "product": "Trophy Pro High",
      "url": "vikingfootwear.com/p/trophy-pro-high-vibram-unisex-huntinggreen",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/834_1c37b772f2-1-43400-24-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig fine vintersko som falt i smak hos 8åringen. Fin passform og blir gode og varme når kulda kommer.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-dark-grey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_1cad081220-3-96010-91-a-square.jpg",
      "date": "27 Oct 2026",
      "country": "Norway"
     }
@@ -5004,6 +5014,16 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5112,16 +5132,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1650_bf4645d7e9-viking_26_camp_aw26_pdp_leglsy_1920x2442_7-square.jpg",
      "date": "26 Oct 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Perfekt sko til vintertid",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Expower Warm GTX 2V",
-     "url": "vikingfootwear.com/p/expower-warm-gtx-2v-petrol",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_4338a77213-viking_26_camp_aw26_pdp_leglsy_1920x2442_13-square.jpg",
-     "date": "26 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -5129,13 +5139,13 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
-     "text": "Overraskende gode og varme.",
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
      "country": "Norway"
     },
     {
@@ -5146,26 +5156,6 @@
      "url": "vikingfootwear.com/p/noble-blackblack-rubber-boot",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/341_bb5821ff9b-1-34100-202-a-square.jpg",
      "date": "31 Oct 2026",
-     "country": ""
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Litt romslig i størrelsen, men ellers topp sko",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "28 Oct 2026",
      "country": ""
     },
     {
@@ -5247,6 +5237,26 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1052_5e4126b311-5-93000-7702-a-square.jpg",
      "date": "14 Oct 2026",
      "country": ""
+    },
+    {
+     "text": "Veldig fin sko, men liten i størrelsen.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "13 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig god på. Mye mulig det er de beste vinterskoene jeg noen gang har hatt.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene SO Tall Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
+     "date": "2 Oct 2026",
+     "country": "Norway"
     }
    ]
   },
@@ -5524,6 +5534,26 @@
      "country": "Norway"
     },
     {
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5554,16 +5584,6 @@
      "country": "Norway"
     },
     {
-     "text": "Overraskende gode og varme.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
-    },
-    {
      "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5580,16 +5600,6 @@
      "product": "Splash Warm",
      "url": "vikingfootwear.com/p/splash-warm-moss-green",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
      "date": "30 Oct 2026",
      "country": "Norway"
     }
@@ -5599,6 +5609,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Icefighter 2 Warm Thermo Boot",
+     "url": "vikingfootwear.com/p/icefighter-2-warm-blackcharcoal",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1413_42152dab46-5-94000-277-a-square.jpg",
+     "date": "4 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Rubber Boot Care Spray",
+     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
+     "date": "3 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "God kvalitet, sitter godt på foten og varmer godt :-) dette itillegg til at de var veldig fine",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5629,16 +5659,6 @@
      "country": "Norway"
     },
     {
-     "text": "Overraskende gode og varme.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
-    },
-    {
      "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5655,16 +5675,6 @@
      "product": "Splash Warm",
      "url": "vikingfootwear.com/p/splash-warm-moss-green",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Ønsket den romslig. Bestilte derfor en størrelse over normalt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
      "date": "30 Oct 2026",
      "country": "Norway"
     },
@@ -5689,16 +5699,6 @@
      "country": "Norway"
     },
     {
-     "text": "Litt romslig i størrelsen, men ellers topp sko",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Norse Low Boot",
-     "url": "vikingfootwear.com/p/norse-blackcharcoal-low-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_f176f87cad-5-93005-7702-a-square.jpg",
-     "date": "28 Oct 2026",
-     "country": ""
-    },
-    {
      "text": "Bra støvel med deilig fór",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5715,6 +5715,16 @@
      "product": "Trophy Pro High",
      "url": "vikingfootwear.com/p/trophy-pro-high-vibram-unisex-huntinggreen",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/834_1c37b772f2-1-43400-24-a-square.jpg",
+     "date": "27 Oct 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig fine vintersko som falt i smak hos 8åringen. Fin passform og blir gode og varme når kulda kommer.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-dark-grey",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_1cad081220-3-96010-91-a-square.jpg",
      "date": "27 Oct 2026",
      "country": "Norway"
     }

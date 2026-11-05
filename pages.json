@@ -159,7 +159,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1660_72d3aca9fa-3-95515-21-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/equip-glitter-warm-wp-2v-violet",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/flow-mid-wp-1v-black-charcoal": {
 "audience": null,
@@ -177,7 +177,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1616_9bb3a83427-viking_ea25_bouncy-glitter-mid-wp-2v-1-3-55510-9-3-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/bouncy-glitter-mid-wp-2v-pink",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/equip-glow-wp-2v-grey": {
 "audience": null,
@@ -867,7 +867,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2107_9494cb2f75-3-96325-5-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/rowan-barefoot-warm-wp-2v-navy",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/kenza-x-viking-beanie-mustard": {
 "audience": "apparel",
@@ -1083,6 +1083,12 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/rubber-boots/rubber-boot-care-spray",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/jogger-high-hybrid-black": {
+"audience": "women",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2121_84c8996241-3-96430-2-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/women/winter-shoes/jogger-high-hybrid-black",
 "in_stock": true
 }
 }

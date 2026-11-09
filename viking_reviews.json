@@ -306,6 +306,16 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Helt perfekt, mini elsket de🤩",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -414,22 +424,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_4338a77213-viking_26_camp_aw26_pdp_leglsy_1920x2442_13-square.jpg",
      "date": "26 Oct 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Gode, lette og varme sko.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Moon Warm SC GTX 2V",
-     "url": "vikingfootwear.com/p/moon-warm-sc-gtx-2v-navy",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2100_f775aa7ec2-3-96000-5-a-square.jpg",
-     "date": "26 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
   "women": {
    "headline": "What customers say about women’s footwear",
    "reviews": [
+    {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
      "rating": 5,
@@ -538,16 +548,6 @@
      "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
      "date": "13 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Veldig god på. Mye mulig det er de beste vinterskoene jeg noen gang har hatt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Her Serene SO Tall Warm WP",
-     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
-     "date": "2 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -806,6 +806,26 @@
      "country": "Norway"
     },
     {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Lettvinne å ta av og på. Fine å bruke ved hagearbeid og på skogstur. Vanntette og teddyfor innvendig gjør skoene varme.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -874,32 +894,32 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2114_6678d50900-3-96375-259-a-square.jpg",
      "date": "2 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Noble Rubber Boot",
-     "url": "vikingfootwear.com/p/noble-blackblack-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/341_bb5821ff9b-1-34100-202-a-square.jpg",
-     "date": "31 Oct 2026",
-     "country": ""
-    },
-    {
-     "text": "Lette, fleksible støvler med god plass til tær og mykt og varmt fôr. Fin pris også.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Splash Warm",
-     "url": "vikingfootwear.com/p/splash-warm-moss-green",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Lettvinne å ta av og på. Fine å bruke ved hagearbeid og på skogstur. Vanntette og teddyfor innvendig gjør skoene varme.",
      "rating": 5,
@@ -998,26 +1018,6 @@
      "url": "vikingfootwear.com/p/epic-warm-gtx-black",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
      "date": "29 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Veldig fornøyd med kjøpet😀",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fleek Snow Warm WP",
-     "url": "vikingfootwear.com/p/fleek-snow-warm-wp-navy",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2113_0349cb4004-3-96370-5-a-square.jpg",
-     "date": "28 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Bra støvel med deilig fór",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Kenza x Viking Rubber Warm",
-     "url": "vikingfootwear.com/p/kenza-x-viking-rubber-warm-cement",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2099_0fa9876111-viking_aw26_kenza_productimages_logo_26-square.jpg",
-     "date": "28 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -4212,6 +4212,16 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Helt perfekt, mini elsket de🤩",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4320,22 +4330,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_4338a77213-viking_26_camp_aw26_pdp_leglsy_1920x2442_13-square.jpg",
      "date": "26 Oct 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Gode, lette og varme sko.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Moon Warm SC GTX 2V",
-     "url": "vikingfootwear.com/p/moon-warm-sc-gtx-2v-navy",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2100_f775aa7ec2-3-96000-5-a-square.jpg",
-     "date": "26 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
   "women": {
    "headline": "What customers say about women’s footwear",
    "reviews": [
+    {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
      "rating": 5,
@@ -4444,16 +4454,6 @@
      "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
      "date": "13 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Veldig god på. Mye mulig det er de beste vinterskoene jeg noen gang har hatt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Her Serene SO Tall Warm WP",
-     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
-     "date": "2 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -4712,6 +4712,26 @@
      "country": "Norway"
     },
     {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Lettvinne å ta av og på. Fine å bruke ved hagearbeid og på skogstur. Vanntette og teddyfor innvendig gjør skoene varme.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4780,32 +4800,32 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2114_6678d50900-3-96375-259-a-square.jpg",
      "date": "2 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Noble Rubber Boot",
-     "url": "vikingfootwear.com/p/noble-blackblack-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/341_bb5821ff9b-1-34100-202-a-square.jpg",
-     "date": "31 Oct 2026",
-     "country": ""
-    },
-    {
-     "text": "Lette, fleksible støvler med god plass til tær og mykt og varmt fôr. Fin pris også.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Splash Warm",
-     "url": "vikingfootwear.com/p/splash-warm-moss-green",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Lettvinne å ta av og på. Fine å bruke ved hagearbeid og på skogstur. Vanntette og teddyfor innvendig gjør skoene varme.",
      "rating": 5,
@@ -4904,26 +4924,6 @@
      "url": "vikingfootwear.com/p/epic-warm-gtx-black",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
      "date": "29 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Veldig fornøyd med kjøpet😀",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fleek Snow Warm WP",
-     "url": "vikingfootwear.com/p/fleek-snow-warm-wp-navy",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2113_0349cb4004-3-96370-5-a-square.jpg",
-     "date": "28 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Bra støvel med deilig fór",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Kenza x Viking Rubber Warm",
-     "url": "vikingfootwear.com/p/kenza-x-viking-rubber-warm-cement",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2099_0fa9876111-viking_aw26_kenza_productimages_logo_26-square.jpg",
-     "date": "28 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -4934,6 +4934,16 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Helt perfekt, mini elsket de🤩",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5042,22 +5052,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1382_4338a77213-viking_26_camp_aw26_pdp_leglsy_1920x2442_13-square.jpg",
      "date": "26 Oct 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Gode, lette og varme sko.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Moon Warm SC GTX 2V",
-     "url": "vikingfootwear.com/p/moon-warm-sc-gtx-2v-navy",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2100_f775aa7ec2-3-96000-5-a-square.jpg",
-     "date": "26 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
   "women": {
    "headline": "What customers say about women’s footwear",
    "reviews": [
+    {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Beste støvel til jaktbruk når det er kaldt og bløtt",
      "rating": 5,
@@ -5166,16 +5176,6 @@
      "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
      "date": "13 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Veldig god på. Mye mulig det er de beste vinterskoene jeg noen gang har hatt.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Her Serene SO Tall Warm WP",
-     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
-     "date": "2 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -5434,6 +5434,26 @@
      "country": "Norway"
     },
     {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Lettvinne å ta av og på. Fine å bruke ved hagearbeid og på skogstur. Vanntette og teddyfor innvendig gjør skoene varme.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5502,32 +5522,32 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2114_6678d50900-3-96375-259-a-square.jpg",
      "date": "2 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Gode støvler som ikke gir gnagsår og som jeg bruker til og fra jobb - 30 minutts gåtur - i regnvær.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Noble Rubber Boot",
-     "url": "vikingfootwear.com/p/noble-blackblack-rubber-boot",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/341_bb5821ff9b-1-34100-202-a-square.jpg",
-     "date": "31 Oct 2026",
-     "country": ""
-    },
-    {
-     "text": "Lette, fleksible støvler med god plass til tær og mykt og varmt fôr. Fin pris også.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Splash Warm",
-     "url": "vikingfootwear.com/p/splash-warm-moss-green",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
-     "date": "30 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Gode på foten, litt store i lengden.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Moment Low GTX",
+     "url": "vikingfootwear.com/p/her-moment-low-gtx-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
+    {
+     "text": "Veldig enkle å ta av og på for 5-åringen",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Toasty Glitter Warm GTX Zip",
+     "url": "vikingfootwear.com/p/toasty-glitter-warm-gtx-zip-beige",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2101_ad9246d9a3-viking_26_camp_aw26_pdp_leglsy_1920x2442_29-square.jpg",
+     "date": "9 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Lettvinne å ta av og på. Fine å bruke ved hagearbeid og på skogstur. Vanntette og teddyfor innvendig gjør skoene varme.",
      "rating": 5,
@@ -5626,26 +5646,6 @@
      "url": "vikingfootwear.com/p/epic-warm-gtx-black",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
      "date": "29 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Veldig fornøyd med kjøpet😀",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fleek Snow Warm WP",
-     "url": "vikingfootwear.com/p/fleek-snow-warm-wp-navy",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2113_0349cb4004-3-96370-5-a-square.jpg",
-     "date": "28 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Bra støvel med deilig fór",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Kenza x Viking Rubber Warm",
-     "url": "vikingfootwear.com/p/kenza-x-viking-rubber-warm-cement",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2099_0fa9876111-viking_aw26_kenza_productimages_logo_26-square.jpg",
-     "date": "28 Oct 2026",
      "country": "Norway"
     }
    ]

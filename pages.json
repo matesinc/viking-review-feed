@@ -339,7 +339,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1620_b109e992ce-3-55600-2-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/junior-size-30-41/track-mid-wp-sl-black",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/norse-dark-naturalblack-low-boot": {
 "audience": "women",
@@ -1089,6 +1089,12 @@
 "audience": "women",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2121_84c8996241-3-96430-2-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/women/winter-shoes/jogger-high-hybrid-black",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/her-moment-low-gtx-dark-natural": {
+"audience": "women",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/women/hiking/her-moment-low-gtx-dark-natural",
 "in_stock": true
 }
 }

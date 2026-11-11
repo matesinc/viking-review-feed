@@ -431,6 +431,16 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -539,16 +549,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1052_5e4126b311-5-93000-7702-a-square.jpg",
      "date": "14 Oct 2026",
      "country": ""
-    },
-    {
-     "text": "Veldig fin sko, men liten i størrelsen.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Her Serene SO Tall Warm WP",
-     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -806,6 +806,16 @@
      "country": "Norway"
     },
     {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -884,22 +894,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/348_69efab32a8-1-37070-2-a-square.jpg",
      "date": "2 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Barnebarnet superfornøyd med støvlene",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fleek Hybrid Warm WP",
-     "url": "vikingfootwear.com/p/fleek-hybrid-warm-wp-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2114_6678d50900-3-96375-259-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
@@ -1008,16 +1018,6 @@
      "url": "vikingfootwear.com/p/splash-warm-moss-green",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
      "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Sønnen min er veldig fornøyd med disse skoene, de holder han varm og tørr på beina. 😊",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Epic Warm GTX",
-     "url": "vikingfootwear.com/p/epic-warm-gtx-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
-     "date": "29 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -2314,6 +2314,26 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Mein Enkel wollte diese kuscheligen Stiefel gar nicht mehr ausziehen. Er ist begeistert, auch von den Reflektoren.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -2544,6 +2564,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Passen super, bequem und man kann noch dicke Socken (auch mehrfach) anziehen, ohne, dass etwas drückt.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -2640,26 +2680,6 @@
      "product": "Fleek Warm GTX 1V SL",
      "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
      "date": "13 Oct 2026",
      "country": "Germany"
     }
@@ -2669,6 +2689,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Passen super, bequem und man kann noch dicke Socken (auch mehrfach) anziehen, ohne, dass etwas drückt.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -2765,26 +2805,6 @@
      "product": "Fleek Warm GTX 1V SL",
      "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
      "date": "13 Oct 2026",
      "country": "Germany"
     }
@@ -3228,6 +3248,26 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Mein Enkel wollte diese kuscheligen Stiefel gar nicht mehr ausziehen. Er ist begeistert, auch von den Reflektoren.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -3458,6 +3498,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Passen super, bequem und man kann noch dicke Socken (auch mehrfach) anziehen, ohne, dass etwas drückt.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -3554,26 +3614,6 @@
      "product": "Fleek Warm GTX 1V SL",
      "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
      "date": "13 Oct 2026",
      "country": "Germany"
     }
@@ -3583,6 +3623,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Passen super, bequem und man kann noch dicke Socken (auch mehrfach) anziehen, ohne, dass etwas drückt.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -3679,26 +3739,6 @@
      "product": "Fleek Warm GTX 1V SL",
      "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
      "date": "13 Oct 2026",
      "country": "Germany"
     }
@@ -4367,6 +4407,16 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4475,16 +4525,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1052_5e4126b311-5-93000-7702-a-square.jpg",
      "date": "14 Oct 2026",
      "country": ""
-    },
-    {
-     "text": "Veldig fin sko, men liten i størrelsen.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Her Serene SO Tall Warm WP",
-     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -4742,6 +4782,16 @@
      "country": "Norway"
     },
     {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4820,22 +4870,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/348_69efab32a8-1-37070-2-a-square.jpg",
      "date": "2 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Barnebarnet superfornøyd med støvlene",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fleek Hybrid Warm WP",
-     "url": "vikingfootwear.com/p/fleek-hybrid-warm-wp-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2114_6678d50900-3-96375-259-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
@@ -4944,16 +4994,6 @@
      "url": "vikingfootwear.com/p/splash-warm-moss-green",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
      "date": "30 Oct 2026",
-     "country": "Norway"
-    },
-    {
-     "text": "Sønnen min er veldig fornøyd med disse skoene, de holder han varm og tørr på beina. 😊",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Epic Warm GTX",
-     "url": "vikingfootwear.com/p/epic-warm-gtx-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
-     "date": "29 Oct 2026",
      "country": "Norway"
     }
    ]
@@ -5089,6 +5129,16 @@
    "headline": "What customers say about women’s footwear",
    "reviews": [
     {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5197,16 +5247,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1052_5e4126b311-5-93000-7702-a-square.jpg",
      "date": "14 Oct 2026",
      "country": ""
-    },
-    {
-     "text": "Veldig fin sko, men liten i størrelsen.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Her Serene SO Tall Warm WP",
-     "url": "vikingfootwear.com/p/her-serene-so-tall-warm-wp-dark-natural",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2119_d6ea2d0d80-viking_26_hercollection_productimages_wtag_14-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -5464,6 +5504,16 @@
      "country": "Norway"
     },
     {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
+    {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5542,22 +5592,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/348_69efab32a8-1-37070-2-a-square.jpg",
      "date": "2 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Barnebarnet superfornøyd med støvlene",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Fleek Hybrid Warm WP",
-     "url": "vikingfootwear.com/p/fleek-hybrid-warm-wp-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2114_6678d50900-3-96375-259-a-square.jpg",
-     "date": "2 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Bruker til vanlig str 40. Men gikk en str opp grunnet at jeg ønsket å bruke en tjukkere sokk om vinteren.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Her Serene High Warm WP",
+     "url": "vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Norway"
+    },
     {
      "text": "Gode på foten, litt store i lengden.",
      "rating": 5,
@@ -5667,16 +5717,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2098_319d17b52a-1-60235-44-a-square.jpg",
      "date": "30 Oct 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Sønnen min er veldig fornøyd med disse skoene, de holder han varm og tørr på beina. 😊",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Epic Warm GTX",
-     "url": "vikingfootwear.com/p/epic-warm-gtx-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1652_ca4a2c6059-3-95110-2-a-square.jpg",
-     "date": "29 Oct 2026",
-     "country": "Norway"
     }
    ]
   }
@@ -5685,6 +5725,26 @@
   "kids": {
    "headline": "What customers say about kids’ footwear",
    "reviews": [
+    {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
     {
      "text": "Mein Enkel wollte diese kuscheligen Stiefel gar nicht mehr ausziehen. Er ist begeistert, auch von den Reflektoren.",
      "rating": 5,
@@ -5916,6 +5976,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Passen super, bequem und man kann noch dicke Socken (auch mehrfach) anziehen, ohne, dass etwas drückt.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -6012,26 +6092,6 @@
      "product": "Fleek Warm GTX 1V SL",
      "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
      "date": "13 Oct 2026",
      "country": "Germany"
     }
@@ -6041,6 +6101,26 @@
    "headline": "What customers say",
    "reviews": [
     {
+     "text": "Mein Sohn ist super zufrieden,",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-olive",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_dcd3c8d2f8-3-95115-37-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
+     "text": "Meine Tochter liebt die Stiefel! Trägt sie nur noch!",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP 1V SL",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-1v-sl-cream",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1653_8e552b7b01-3-95115-66-a-square.jpg",
+     "date": "11 Nov 2026",
+     "country": "Germany"
+    },
+    {
      "text": "Passen super, bequem und man kann noch dicke Socken (auch mehrfach) anziehen, ohne, dass etwas drückt.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -6137,26 +6217,6 @@
      "product": "Fleek Warm GTX 1V SL",
      "url": "vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal",
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1408_6aa7108572-3-94715-277-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Ich bin sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-olive",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_801852b14f-1-45150-37-a-square.jpg",
-     "date": "13 Oct 2026",
-     "country": "Germany"
-    },
-    {
-     "text": "Sehr gute Passform, sehr gutes Tragegefühl, griffige Sohle. Meine Trau ist sehr zufrieden.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Gravel Neo Rubber Boots",
-     "url": "vikingfootwear.com/p/gravel-neo-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1457_e1e37fa477-1-45150-2-a-square.jpg",
      "date": "13 Oct 2026",
      "country": "Germany"
     }

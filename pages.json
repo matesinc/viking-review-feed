@@ -224,7 +224,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1361_3f5bd73b21-3-54005-2-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/gore-tex-kids-shoes/expower-mid-gtx-2v-black",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/stavern-urban-black-rubber-boot": {
 "audience": "men",
@@ -1095,6 +1095,12 @@
 "audience": "women",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2115_a8a7810aec-viking_26_hercollection_productimages_wtag_10-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/women/hiking/her-moment-low-gtx-dark-natural",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/her-serene-high-warm-wp-dark-natural": {
+"audience": "women",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_f42f5850fb-viking_aw26_campaign_hercollectionwinter_website_plp_1950x2442_4-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/women/winter-shoes/her-serene-high-warm-wp-dark-natural",
 "in_stock": true
 }
 }

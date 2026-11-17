@@ -471,7 +471,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/339_ea2c476d29-1-28210-2-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/rubber-boots/vendela-black-rubber-boot",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/constrictor-3-high-wp-boa-blacksilver-hiking": {
 "audience": "men",
@@ -1119,6 +1119,12 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2122_5606ff29ed-viking_aw26_kenza_productimages_logo_30-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/kids-size-20-35/kenza-x-viking-warm-wp-pull-on-mustard",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/alv-barefoot-paw-print-warm-grape": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2097_a91c842f24-1-60230-48-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/rubber-boots/warmlined-rubber-boots/alv-barefoot-paw-print-warm-grape",
 "in_stock": true
 }
 }

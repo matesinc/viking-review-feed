@@ -118,7 +118,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1619_f348383aa0-3-55595-37-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/equip-mid-wp-boa-olive",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/track-mid-wp-2v-black-charcoal": {
 "audience": "kids",
@@ -279,7 +279,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2107_0d80554547-3-96325-41-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/rowan-barefoot-warm-wp-2v-wine",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/veme-reflex-mid-gtx-2v-burgundy-violet": {
 "audience": null,
@@ -339,7 +339,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1620_b109e992ce-3-55600-2-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/junior-size-30-41/track-mid-wp-sl-black",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/norse-dark-naturalblack-low-boot": {
 "audience": "women",
@@ -675,7 +675,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1619_18720dc4fe-viking_26_ea26_homepagebanner_1080x1350_4-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/equip-mid-wp-boa-black",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/fleek-warm-gtx-1v-sl-blackcharcoal": {
 "audience": "kids",
@@ -795,7 +795,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2091_ef4ac758bf-aspen-barefoot-mid-wp-2v-3-56310-2-8-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/kids-size-20-35/aspen-barefoot-mid-wp-2v-black",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/her-momentum-gtx-pearlgrey": {
 "audience": "women",
@@ -1125,6 +1125,24 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2097_a91c842f24-1-60230-48-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/rubber-boots/warmlined-rubber-boots/alv-barefoot-paw-print-warm-grape",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/kenza-x-viking-thermoboot-moss-green": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2124_b40548a7ed-viking_aw26_kenza_productimages_logo_28-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/show-all/kenza-x-viking-thermoboot-moss-green",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/constrictor-warm-sc-wp-2v-black": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1650_b910c7acbf-3-95010-2-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/show-all/constrictor-warm-sc-wp-2v-black",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/equip-warm-wp-zip-dark-natural": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/906_8e1912372b-3-93610-42-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/winter-boots/equip-warm-wp-zip-dark-natural",
 "in_stock": true
 }
 }

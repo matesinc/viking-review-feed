@@ -224,7 +224,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1361_3f5bd73b21-3-54005-2-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/gore-tex-kids-shoes/expower-mid-gtx-2v-black",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/stavern-urban-black-rubber-boot": {
 "audience": "men",
@@ -1143,6 +1143,18 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/906_8e1912372b-3-93610-42-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/winter-boots/equip-warm-wp-zip-dark-natural",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/anaconda-4x4-low-wp-boa-olive": {
+"audience": "women",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1667_d84354a3d2-3-95645-37-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/women/walking/anaconda-4x4-low-wp-boa-olive",
+"in_stock": false
+},
+"https://vikingfootwear.com/p/equip-glitter-warm-wp-pull-on-pink": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1661_40a442dca8-viking_26_camp_aw26_pdp_leglsy_1920x2442_10-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/winter-boots/equip-glitter-warm-wp-pull-on-pink",
 "in_stock": true
 }
 }

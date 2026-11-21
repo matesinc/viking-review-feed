@@ -306,6 +306,16 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
+    {
      "text": "Perfekt med glitter og virker varme.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -414,16 +424,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_6ee105ae0f-viking_aw26_studio-apparel_pdp_4-square.jpg",
      "date": "5 Nov 2026",
      "country": ""
-    },
-    {
-     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Rubber Boot Care Spray",
-     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
-     "date": "3 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -836,6 +836,16 @@
      "country": "Norway"
     },
     {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
+    {
      "text": "Topp produkt til bra pris!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -914,22 +924,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2097_a91c842f24-1-60230-48-a-square.jpg",
      "date": "16 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Veldig fine vintersko i fin farge. Passe i størrelsen og greit med justeringsmuligheter i leggen.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Kenza x Viking Warm WP Pull-on",
-     "url": "vikingfootwear.com/p/kenza-x-viking-warm-wp-pull-on-mustard",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2122_5606ff29ed-viking_aw26_kenza_productimages_logo_30-square.jpg",
-     "date": "16 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
     {
      "text": "Topp produkt til bra pris!",
      "rating": 5,
@@ -1039,16 +1049,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1383_3035fb7024-viking_26_camp_aw26_pdp_leglsy_1920x2442_11-square.jpg",
      "date": "13 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Veldig gode sko i goretex med BOA lås. Praktisk for barn og unge som bare vil bruke joggesko i verdens våteste by.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Anaconda 4x4 Low GTX BOA",
-     "url": "vikingfootwear.com/p/anaconda-4x4-low-gtx-boa-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1377_1f1cdfd91d-3-55200-231-a-square.jpg",
-     "date": "13 Nov 2026",
-     "country": ""
     }
    ]
   }
@@ -4372,6 +4372,16 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
+    {
      "text": "Perfekt med glitter og virker varme.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4480,16 +4490,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_6ee105ae0f-viking_aw26_studio-apparel_pdp_4-square.jpg",
      "date": "5 Nov 2026",
      "country": ""
-    },
-    {
-     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Rubber Boot Care Spray",
-     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
-     "date": "3 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -4902,6 +4902,16 @@
      "country": "Norway"
     },
     {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
+    {
      "text": "Topp produkt til bra pris!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -4980,22 +4990,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2097_a91c842f24-1-60230-48-a-square.jpg",
      "date": "16 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Veldig fine vintersko i fin farge. Passe i størrelsen og greit med justeringsmuligheter i leggen.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Kenza x Viking Warm WP Pull-on",
-     "url": "vikingfootwear.com/p/kenza-x-viking-warm-wp-pull-on-mustard",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2122_5606ff29ed-viking_aw26_kenza_productimages_logo_30-square.jpg",
-     "date": "16 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
     {
      "text": "Topp produkt til bra pris!",
      "rating": 5,
@@ -5105,16 +5115,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1383_3035fb7024-viking_26_camp_aw26_pdp_leglsy_1920x2442_11-square.jpg",
      "date": "13 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Veldig gode sko i goretex med BOA lås. Praktisk for barn og unge som bare vil bruke joggesko i verdens våteste by.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Anaconda 4x4 Low GTX BOA",
-     "url": "vikingfootwear.com/p/anaconda-4x4-low-gtx-boa-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1377_1f1cdfd91d-3-55200-231-a-square.jpg",
-     "date": "13 Nov 2026",
-     "country": ""
     }
    ]
   }
@@ -5124,6 +5124,16 @@
    "headline": "What customers say about kids’ footwear",
    "reviews": [
     {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
+    {
      "text": "Perfekt med glitter og virker varme.",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5232,16 +5242,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_6ee105ae0f-viking_aw26_studio-apparel_pdp_4-square.jpg",
      "date": "5 Nov 2026",
      "country": ""
-    },
-    {
-     "text": "Kjapp levering, fin å bruke. Bedre å spraye på en klut og smøre på, enn å spraye rett på støvelen! Torbjørn",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Rubber Boot Care Spray",
-     "url": "vikingfootwear.com/p/rubber-boot-care-spray",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/777_f585051693-1-72201-2-a-square.jpg",
-     "date": "3 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
@@ -5654,6 +5654,16 @@
      "country": "Norway"
     },
     {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
+    {
      "text": "Topp produkt til bra pris!",
      "rating": 5,
      "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
@@ -5732,22 +5742,22 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2097_a91c842f24-1-60230-48-a-square.jpg",
      "date": "16 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Veldig fine vintersko i fin farge. Passe i størrelsen og greit med justeringsmuligheter i leggen.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Kenza x Viking Warm WP Pull-on",
-     "url": "vikingfootwear.com/p/kenza-x-viking-warm-wp-pull-on-mustard",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2122_5606ff29ed-viking_aw26_kenza_productimages_logo_30-square.jpg",
-     "date": "16 Nov 2026",
-     "country": "Norway"
     }
    ]
   },
   "all": {
    "headline": "What customers say",
    "reviews": [
+    {
+     "text": "Vi er kjempefornøyde med vinterskoene fra Viking! De er varme, behagelige og solide.",
+     "rating": 5,
+     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
+     "product": "Constrictor Warm SC WP BOA",
+     "url": "vikingfootwear.com/p/constrictor-warm-sc-wp-boa-black",
+     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
+     "date": "21 Nov 2026",
+     "country": ""
+    },
     {
      "text": "Topp produkt til bra pris!",
      "rating": 5,
@@ -5857,16 +5867,6 @@
      "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1383_3035fb7024-viking_26_camp_aw26_pdp_leglsy_1920x2442_11-square.jpg",
      "date": "13 Nov 2026",
      "country": "Norway"
-    },
-    {
-     "text": "Veldig gode sko i goretex med BOA lås. Praktisk for barn og unge som bare vil bruke joggesko i verdens våteste by.",
-     "rating": 5,
-     "stars": "https://nvfevo.stripocdn.email/content/guids/CABINET_545cd1214b29809dc55d578dc752da037182cb01a24a1c8b3c22d892c525b059/images/5.png",
-     "product": "Anaconda 4x4 Low GTX BOA",
-     "url": "vikingfootwear.com/p/anaconda-4x4-low-gtx-boa-unisex-black",
-     "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1377_1f1cdfd91d-3-55200-231-a-square.jpg",
-     "date": "13 Nov 2026",
-     "country": ""
     }
    ]
   }

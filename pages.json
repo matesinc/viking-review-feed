@@ -1143,7 +1143,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/906_8e1912372b-3-93610-42-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/winter-boots/equip-warm-wp-zip-dark-natural",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/anaconda-4x4-low-wp-boa-olive": {
 "audience": "women",
@@ -1162,5 +1162,11 @@
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2110_a24c723571-viking_26_camp_aw26_pdp_leglsy_1920x2442_8-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/winter-boots/constrictor-warm-sc-wp-boa-black",
 "in_stock": true
+},
+"https://vikingfootwear.com/p/city-explorer-mid-fleece-wp-m-cement": {
+"audience": null,
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1668_1e4859146e-3-95650-73-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/outlet/mens-footwear/city-explorer-mid-fleece-wp-m-cement",
+"in_stock": false
 }
 }

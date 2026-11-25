@@ -441,7 +441,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_74a7ba5121-viking_aw26_studio-apparel_pdp_19-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/spaceship-warm-sc-wp-plum",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/spaceship-warm-sc-wp-grey": {
 "audience": "kids",
@@ -540,9 +540,9 @@
 "in_stock": true
 },
 "https://vikingfootwear.com/p/playrox-olive-thermo-boot": {
-"audience": null,
+"audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/733_df9781e9ba-5-11010-37-a-square.jpg",
-"url": "https://vikingfootwear.com/en-NO/outlet/shoes/playrox-olive-thermo-boot",
+"url": "https://vikingfootwear.com/en-NO/kids/thermo-boots/playrox-olive-thermo-boot",
 "in_stock": true
 },
 "https://vikingfootwear.com/p/her-boost-wp-olive": {
@@ -996,9 +996,9 @@
 "in_stock": true
 },
 "https://vikingfootwear.com/p/alv-barefoot-paw-rubber-boot-beige": {
-"audience": null,
+"audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1716_b9da34d408-1-60220-38-a-square.jpg",
-"url": "https://vikingfootwear.com/en-NO/outlet/shoes/alv-barefoot-paw-rubber-boot-beige",
+"url": "https://vikingfootwear.com/en-NO/kids/show-all/alv-barefoot-paw-rubber-boot-beige",
 "in_stock": true
 },
 "https://vikingfootwear.com/p/expower-mid-gtx-2v-green": {

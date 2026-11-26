@@ -441,7 +441,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2108_74a7ba5121-viking_aw26_studio-apparel_pdp_19-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/show-all/spaceship-warm-sc-wp-plum",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/spaceship-warm-sc-wp-grey": {
 "audience": "kids",
@@ -1167,6 +1167,12 @@
 "audience": null,
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1668_1e4859146e-3-95650-73-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/outlet/mens-footwear/city-explorer-mid-fleece-wp-m-cement",
+"in_stock": false
+},
+"https://vikingfootwear.com/p/norse-low-boot-petrol": {
+"audience": "men",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_25f1808002-5-93005-55-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/men/rubber-boots/warm-lined-rubber-boots/norse-low-boot-petrol",
 "in_stock": false
 }
 }

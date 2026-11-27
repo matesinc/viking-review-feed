@@ -291,7 +291,7 @@
 "audience": null,
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1364_73954419e5-3-54540-48-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/outlet/shoes/equip-mid-wp-2v-grape",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/equip-warm-wp-1v-jr-blackgrey": {
 "audience": "kids",
@@ -555,7 +555,7 @@
 "audience": "kids",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1387_e8f9a71dcb-3-94125-2-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/kids/gore-tex-kids-shoes/expower-warm-gtx-boa-black",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/ultra-warm-red": {
 "audience": "kids",
@@ -603,7 +603,7 @@
 "audience": "apparel",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2150_b7cef83c4c-50-26800-73-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/clothing/clothing-kids/bottoms/winter-pants/play-footstraps-2-pack-v2-cement",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/play-reflex-warm-gtx-2v-reflective-black": {
 "audience": "kids",
@@ -1174,5 +1174,29 @@
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1049_25f1808002-5-93005-55-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/men/rubber-boots/warm-lined-rubber-boots/norse-low-boot-petrol",
 "in_stock": false
+},
+"https://vikingfootwear.com/p/fleek-warm-gtx-zip-blackblack": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1409_3f43511423-3-94720-202-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/winter-boots/fleek-warm-gtx-zip-blackblack",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/play-reflex-warm-gtx-2v-pinklight-pink": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1379_e05682b586-3-94000-998-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/winter-boots/play-reflex-warm-gtx-2v-pinklight-pink",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/eagle-warm-gtx-1v-black-black": {
+"audience": "kids",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1385_29a12328f4-3-94110-2-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/kids/winter-boots/eagle-warm-gtx-1v-black-black",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/her-serene-high-warm-wp-black": {
+"audience": "women",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_4f83335c33-viking_26_hercollection_productimages_wtag_11-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/women/winter-shoes/her-serene-high-warm-wp-black",
+"in_stock": true
 }
 }

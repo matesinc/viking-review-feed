@@ -291,7 +291,7 @@
 "audience": null,
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/1364_73954419e5-3-54540-48-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/outlet/shoes/equip-mid-wp-2v-grape",
-"in_stock": false
+"in_stock": true
 },
 "https://vikingfootwear.com/p/equip-warm-wp-1v-jr-blackgrey": {
 "audience": "kids",
@@ -603,7 +603,7 @@
 "audience": "apparel",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2150_b7cef83c4c-50-26800-73-a-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/clothing/clothing-kids/bottoms/winter-pants/play-footstraps-2-pack-v2-cement",
-"in_stock": true
+"in_stock": false
 },
 "https://vikingfootwear.com/p/play-reflex-warm-gtx-2v-reflective-black": {
 "audience": "kids",
@@ -1197,6 +1197,12 @@
 "audience": "women",
 "image": "https://vikingfootwear.centracdn.net/client/dynamic/images/2117_4f83335c33-viking_26_hercollection_productimages_wtag_11-square.jpg",
 "url": "https://vikingfootwear.com/en-NO/women/winter-shoes/her-serene-high-warm-wp-black",
+"in_stock": true
+},
+"https://vikingfootwear.com/p/aery-light-down-jacket-olive": {
+"audience": "apparel",
+"image": "https://vikingfootwear.centracdn.net/client/dynamic/images/934_81944b5aa2-50-23600-3737-a-square.jpg",
+"url": "https://vikingfootwear.com/en-NO/outlet/clothing/aery-light-down-jacket-olive",
 "in_stock": true
 }
 }
